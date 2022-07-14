@@ -1,0 +1,2299 @@
+2003-07-21|54549|Tweak UI 2.10
+2003-07-22|54559|Why do you have to click the Start button to shut down?
+2003-07-23|54576|The scratch program
+2003-07-25|54582|Scrollbars, part 2
+2003-07-28|54583|Why doesn't Windows have an "expert mode"?
+2003-07-30|54592|Why doesn't the new Start menu use Intellimenus in the All Programs list?
+2003-07-31|54601|Scrollbars, part 4: Adding a proportional scrollbar
+2003-08-07|54615|Scrollbars bart 6 - The wheel
+2003-08-08|54618|Why is a registry file called a "hive"?
+2003-08-12|54634|Why can't I remove "for test/evaluation purposes only"?
+2003-08-13|54639|Scrollbars part 8 - Integral interactive resizing
+2003-08-14|54640|Windows 95 doesn't boot with more than 1GB of RAM
+2003-08-18|54655|Why does Windows 95 have functions called BEAR, BUNNY and PIGLET?
+2003-08-20|54672|What is in the "Windows 95 Special Edition" box?
+2003-08-21|54675|The secret life of GetWindowText
+2003-08-22|54679|Why isn't my time zone highlighted on the world map?
+2003-08-25|54700|Windows brings out the Rorschach test in everyone
+2003-08-27|54710|What are those little overlay icons?
+2003-08-27|54712|What are all these files in my C:\WINDOWS\CSC directory?
+2003-08-27|54715|Why are these unwanted files/folders opening when I log on?
+2003-08-28|54719|Hardware backwards compatibility
+2003-08-31|54733|Setup could not verify integrity of file
+2003-09-01|54734|The default answer to every dialog box is "Cancel"
+2003-09-01|54754|Suburbs make you fat, researchers conclude
+2003-09-01|54756|Even the trees are falling for the media's lies
+2003-09-02|54758|Determining whether your window is covered
+2003-09-02|54759|The World Adult Kickball Association
+2003-09-03|54760|Why is there no programmatic access to the Start menu pin list?
+2003-09-04|54794|Why are the rules for GetWindowText so weird?
+2003-09-05|54802|Case mapping on Unicode is hard
+2003-09-05|54806|How to recognize different types of timestamps from quite a long way away
+2003-09-08|54811|An insight into the Windows 95 startup sound
+2003-09-08|54817|It's a lot easier to write a column if you don't care about accuracy
+2003-09-10|54831|Why do some people call the taskbar the "tray"?
+2003-09-11|54885|Scrollbars part 10 - Towards a deeper understanding of the WM_NCCALCSIZE message
+2003-09-12|54896|Why does the taskbar default to the bottom of the screen?
+2003-09-15|54925|Scrollbars part 11: Towards an even deeper understanding of the WM_NCCALCSIZE message
+2003-09-16|54938|Why does Win32 fail a module load if an import could not be resolved?
+2003-09-17|54944|Scrollbars part 12: Applying WM_NCCALCSIZE to our scrollbar sample
+2003-09-17|54945|Answers to exercise from Scrollbars Part 11
+2003-09-17|54946|The end of the scrollbar series
+2003-09-20|55055|When I dock my taskbar vertically, why does the word "Start" disappear?
+2003-09-29|55082|Why you can't rotate text
+2003-09-30|55100|Why is the readonly property for folders so strange?
+2003-10-01|55108|Why do I get spurious WM_MOUSEMOVE messages?
+2003-10-07|55194|Stupid memory-mapping tricks
+2003-10-08|55204|I'm doing this instead of writing a book
+2003-10-08|55223|In Explorer, you can right-click the icon in the caption
+2003-10-08|55239|Why is address space allocation granularity 64K?
+2003-10-10|55256|Why doesn't the clock in the taskbar display seconds?
+2003-10-13|55279|Why is there no WM_MOUSEENTER message?
+2003-10-15|55296|What about BOZOSLIVEHERE and TABTHETEXTOUTFORWIMPS?
+2003-10-17|55345|Don't let Marketing mess with your slides
+2003-10-20|55367|What is the Alt+Tab order?
+2003-10-22|55388|What's the deal with those reserved filenames like NUL and CON?
+2003-10-23|55408|Writing a sort comparison function
+2003-10-24|55413|Why Daylight Savings Time is nonintuitive
+2003-11-03|55532|The long and sad story of the Shell Folders key
+2003-11-10|55635|How much do you expect from a framework layer?
+2003-11-11|55653|Safer subclassing
+2003-11-12|55659|A different type of dialog procedure
+2003-11-13|55662|Another different type of dialog procedure
+2003-11-14|55678|Preventing edit control text from being autoselected in a dialog box
+2003-11-19|55744|Notepad's geek options require Word Wrap be disabled
+2003-11-19|55757|How can I tell if I have the 64-bit edition of Windows?
+2003-11-20|55764|What's the deal with the System Volume Information folder?
+2003-11-21|55799|Why isn't Fast User Switching enabled on domains?
+2003-11-24|55823|A shortcut to the Run dialog
+2003-11-24|55833|You can drag/drop to the command prompt
+2003-11-25|55850|What do the letters W and L stand for in WPARAM and LPARAM?
+2003-11-26|55872|Other tricks with WM_GETDLGCODE
+2003-11-27|55877|It's like the Swedes don't want you to learn their language
+2003-11-28|55892|Hello Sweden, you're on fire
+2003-12-01|55900|What are these strange values returned from GWLP_WNDPROC?
+2003-12-02|55914|Which message numbers belong to whom?
+2003-12-03|55927|Which window style bits belong to whom?
+2003-12-05|55936|Why do I have to return this goofy value for WM_DEVICECHANGE?
+2003-12-08|55954|If FlushInstructionCache doesn't do anything, why do you have to call it?
+2003-12-09|55988|Why you should never suspend a thread
+2003-12-10|56028|What is the command line length limit?
+2003-12-11|56043|How do I pass a lot of data to a process when it starts up?
+2003-12-12|56061|Why are structure sizes checked strictly?
+2003-12-16|43890|The unsafe device removal dialog
+2003-12-18|44425|How to void your warranty
+2003-12-22|45152|How do I determine whether I own a critical section if I am not supposed to look at internal fields?
+2003-12-23|45481|When programs grovel into undocumented structures...
+2003-12-24|45779|Why not just block the apps that rely on undocumented behavior?
+2003-12-25|45926|What order do programs in the startup group execute?
+2003-12-26|45979|You can read a contract from the other side
+2003-12-28|46208|Danish so-called "pronunciation"
+2003-12-29|46371|What's with those blank taskbar buttons that go away when I click on them?
+2003-12-30|46594|What's the difference between CreateMenu and CreatePopupMenu?
+2003-12-31|46875|How to stop delivery of telephone books
+2004-01-01|47042|Don't trust the return address
+2004-01-02|47184|The history of calling conventions, part 1
+2004-01-05|47685|Why does the x86 have so few registers?
+2004-01-06|47937|Why does the copy dialog give such horrible estimates?
+2004-01-07|48304|Words I'd like to ban in 2004
+2004-01-08|48616|The history of calling conventions, part 3
+2004-01-13|58199|The history of calling conventions, part 4: ia64
+2004-01-14|58579|The history of calling conventions, part 5: amd64
+2004-01-15|58973|What can go wrong when you mismatch the calling convention?
+2004-01-16|59415|How can a program survive a corrupted stack?
+2004-01-19|60162|Uninitialized garbage on ia64 can be deadly
+2004-01-20|60603|ia64 - misdeclaring near and far data
+2004-01-21|61101|Fixing security holes in other programs
+2004-01-22|61647|What happened to DirectX 4?
+2004-01-23|62123|The white flash
+2004-01-26|62991|The hollow brush
+2004-01-26|63163|Blog going on autopilot for a while
+2004-01-27|63401|Some reasons not to do anything scary in your DllMain
+2004-01-28|63880|Another reason not to do anything scary in your DllMain: Inadvertent deadlock
+2004-01-29|64389|Integer overflow in the new[] operator
+2004-01-30|65013|The format of string resources
+2004-02-02|66159|The management of memory for resources in 16-bit Windows
+2004-02-02|66160|What goes wrong when you add "Copy To" to the context menu
+2004-02-03|66660|Mismatching scalar and vector new and delete
+2004-02-04|67384|Answers to exercises - mismatching new/delete
+2004-02-05|68017|The layout of a COM object
+2004-02-06|68695|Adjustor thunks
+2004-02-09|70002|Pointers to member functions are very strange animals
+2004-02-11|71307|Sure, we do that
+2004-02-12|71851|TEXT vs. _TEXT vs. _T, and UNICODE vs. _UNICODE
+2004-02-13|72476|Bad version number checks
+2004-02-16|73780|The arms race between programs and users
+2004-02-17|74811|GetDialogBaseUnits is a crock
+2004-02-17|74812|The social skills of a thermonuclear device
+2004-02-20|77120|Why do I get a QueryInterface(IID_IMarshal) and then nothing?
+2004-02-21|77681|Raymond's comment policy
+2004-02-24|79212|What's so special about the desktop window?
+2004-02-26|80492|Why do timestamps change when I copy files to a floppy?
+2004-02-27|81155|The correct order for disabling and enabling windows
+2004-03-01|82103|Why 16-bit DOS and Windows are still with us
+2004-03-02|82639|Why are HANDLE return values so inconsistent?
+2004-03-03|83244|Blow the dust out of the connector
+2004-03-04|83799|Where do those customized web site icons come from?
+2004-03-05|84469|Defrauding the WHQL driver certification process
+2004-03-08|85901|C++ scoped static initialization is not thread-safe, on purpose!
+2004-03-09|86555|Char.IsDigit() matches more than just "0" through "9"
+2004-03-10|87247|Why do operations on "byte" result in "int"?
+2004-03-12|88572|What is the default security descriptor?
+2004-03-15|89753|How do I convert a SID between binary and string forms?
+2004-03-16|90448|Why do text files end in Ctrl+Z?
+2004-03-16|90449|Still more creative uses for CAPTCHA
+2004-03-17|91178|On a server, paging = death
+2004-03-18|91899|Why is the line terminator CR+LF?
+2004-03-24|95235|Some files come up strange in Notepad
+2004-03-25|95849|The SAS in-flight safety video
+2004-03-25|96457|URLs too small? Here comes hugeurl.com
+2004-03-26|96777|The ways people mess up IUnknown::QueryInterface
+2004-03-27|100432|What U.S. college students miss from home
+2004-03-28|100796|You know you've been in Sweden too long when...
+2004-03-29|101121|Why Ctrl+Alt shouldn't be used as a shortcut modifier
+2004-03-29|101122|The army is cool, except for the part where you have to fight
+2004-03-29|101349|It's embarrassing how little Swedish you need to know
+2004-03-30|103379|Where did my Task Manager tabs and buttons go?
+2004-03-30|103380|"Special skills" draft on the drawing board
+2004-03-31|104776|The look of Luna
+2004-03-31|104777|When temperance backfires
+2004-04-05|108205|How can I format my USB drive as NTFS?
+2004-04-06|108395|Reference counting is hard.
+2004-04-08|109775|Where does the taskbar get grouped button titles from?
+2004-04-15|113811|Why can't I install Windows on my USB drive?
+2004-04-20|116749|Why can't the system hibernate just one process?
+2004-04-22|118161|Cleaner, more elegant, and wrong
+2004-04-23|118893|How to retrieve text under the cursor (mouse pointer)
+2004-04-26|120193|In order to demonstrate our superior intellect, we will now ask you a question you cannot answer.
+2004-04-27|121049|Why doesn't C# have "const"?
+2004-04-28|122037|What is __purecall?
+2004-05-06|127141|Why did InterlockedIncrement/Decrement only return the sign of the result?
+2004-05-07|127826|When should your destructor be virtual?
+2004-05-10|129068|There are two types of scrollbars
+2004-05-10|129069|A guide to British pub etiquette
+2004-05-11|129760|Links about COM threading models
+2004-05-13|131116|Thinking through a feature
+2004-05-14|131881|When do you disable an option and when do you remove it?
+2004-05-17|133181|When do you put ... after a button or menu?
+2004-05-18|134051|String sorting is not done by ASCII code any more.
+2004-05-19|134937|Beware the hash reset attack
+2004-05-20|135841|Do you know when your destructors run? Part 1.
+2004-05-21|136702|You can do anything at zombo.com, anything at all
+2004-05-24|140283|Extending the Internet Explorer context menu
+2004-05-25|141253|When you change the insides, nobody notices
+2004-05-27|143042|What is the difference between Minimize All and Show Desktop?
+2004-05-28|143771|How do you undo Minimize All and Show Desktop?
+2004-05-31|144893|Why is the default 8-bit codepage called "ANSI"?
+2004-06-01|145428|What does SHGFI_USEFILEATTRIBUTES mean?
+2004-06-02|146671|The dreaded "main" threading model
+2004-06-03|147583|My first death threat
+2004-06-04|148426|An easy way to determine whether you have a particular file permission
+2004-06-07|150047|Deleted but not yet forgotten
+2004-06-09|151689|What are these directories called 0409 and 1033?
+2004-06-10|152612|Speeding up adding items to a combobox or listbox
+2004-06-14|155107|What is the difference between HINSTANCE and HMODULE?
+2004-06-15|156022|What was the purpose of the hPrevInstance parameter to WinMain?
+2004-06-17|158175|The evolution of dialog templates - Introduction
+2004-06-17|158176|Exploding frying pans
+2004-06-25|165762|Monitor giving you a headache? Check the refresh rate.
+2004-06-25|165763|Hong Kong crocodile caught at last.
+2004-06-25|166545|Suggestion box
+2004-06-28|167800|When does SHLoadInProc unload a DLL?
+2004-06-28|167801|Ringside seats at Fruit Fly Fight Club
+2004-06-29|168719|The difference between thread-safety and re-entrancy
+2004-06-29|168720|You can already see the bug report that led to this dialog box
+2004-06-30|169757|Why does the Links folder keep re-creating itself?
+2004-06-30|169758|Fees disguised as taxes
+2004-07-01|170857|What's this fascination with Germanic languages?
+2004-07-02|171769|Don't name your DLL "Security.dll"
+2004-07-05|173226|What's the difference between SHGetMalloc, SHAlloc, CoGetMalloc, and CoTaskMemAlloc
+2004-07-06|173935|Differences between managers and programmers
+2004-07-09|178342|How does Add/Remove Programs get the size and other information?
+2004-07-13|181733|Watch out for those sample URLs
+2004-07-15|184076|Don't forget to #define UNICODE if you want Unicode
+2004-07-16|185261|How to display a string without those ugly boxes
+2004-07-20|188696|Querying information from an Explorer window
+2004-07-21|189860|Why was nine the maximum number of monitors in Windows 98?
+2004-07-22|191123|Why can't you trap TerminateProcess?
+2004-07-23|192531|Why do some process stay in Task Manager after they've been killed?
+2004-07-26|443384|What is the difference between WM_DESTROY and WM_NCDESTROY?
+2004-07-27|198410|Disabling the program crash dialog
+2004-07-28|199589|The evolution of mascara in Windows UI
+2004-07-30|201988|What is the DS_CONTROL style for?
+2004-08-02|205624|How to set focus in a dialog box
+2004-08-05|208908|The oft-misunderstood /3GB switch
+2004-08-06|209840|Kernel address space consequences of the /3GB switch
+2004-08-09|211356|Myth: Without /3GB the total amount of memory that can be allocated across all programs is 2GB
+2004-08-10|211890|Myth: Without /3GB a single program can't allocate more than 2GB of virtual memory
+2004-08-12|213468|Myth: The /3GB switch expands the user-mode address space of all programs
+2004-08-17|215682|Why is the virtual address space 4GB anyway?
+2004-08-18|216492|Myth: PAE increases the virtual address space beyond 4GB
+2004-08-19|217087|Myth: In order to use AWE, you must enable PAE
+2004-08-20|217683|The curious interaction between PAE and NX
+2004-08-22|218527|Summary of the recent spate of /3GB articles
+2004-08-23|218837|The kooky STRRET structure
+2004-08-24|219444|Beware of non-null-terminated registry strings
+2004-08-25|220195|Why can't you treat a FILETIME as an __int64?
+2004-08-26|220873|Why do some structures end with an array of size 1?
+2004-08-27|221486|Importance of alignment even on x86 machines
+2004-08-31|223271|Reading a contract from the other side: Application publishers
+2004-09-01|223936|How to find the Internet Explorer binary
+2004-09-02|224672|Why does Windows keep your BIOS clock on local time?
+2004-09-06|226045|The shift key overrides NumLock
+2004-09-13|228780|How does Windows exploit hyperthreading?
+2004-09-14|229387|The x86 architecture is the weirdo
+2004-09-15|229915|Interlocked operations don't solve everything
+2004-09-16|230388|A visual history of spam (and virus) email
+2004-09-17|230839|Why does my mouse/touchpad sometimes go berzerk?
+2004-09-20|231739|How to host an IContextMenu, part 1 - Initial foray
+2004-09-21|232369|Pitfalls in handling the WM_CONTEXTMENU message
+2004-09-22|232836|How to host an IContextMenu, part 2 - Displaying the context menu
+2004-09-22|232903|How to contact Raymond
+2004-09-23|233376|How to host an IContextMenu, part 3 - Invocation location
+2004-09-23|233377|Penguins do not fall over!
+2004-09-24|234113|How to host an IContextMenu, part 4 - Key context
+2004-09-24|234115|The unrecognized assistants on those do-it-yourself shows
+2004-09-27|234739|How to host an IContextMenu, part 5 - Handling menu messages
+2004-09-28|235242|How to host an IContextMenu, part 6 - Displaying menu help
+2004-09-29|235737|What does boldface on a menu mean?
+2004-09-29|235738|Still more goofy terms of service - restrictions on information disclosure
+2004-09-30|236133|How to host an IContextMenu, part 7 - Invoking the default verb
+2004-10-05|238050|The macros for declaring and implementing COM interfaces
+2004-10-06|238630|How to host an IContextMenu, part 10 - Composite extensions - groundwork
+2004-10-08|239767|Why is there a separate GetSystemDirectory function?
+2004-10-11|240744|What's the atom returned by RegisterClass useful for?
+2004-10-12|241228|People lie on surveys and focus groups, often unwittingly
+2004-10-13|241725|Dispatching items collected from the suggestion box
+2004-10-14|242241|The procedure entry point SHCreateThreadRef could not be located...
+2004-10-15|242761|Logical consequences of the way Windows converts single-clicks into double-clicks
+2004-10-18|243925|Implementing higher-order clicks
+2004-10-25|247180|Accessing the current module's HINSTANCE from a static library
+2004-10-26|247918|The strangest way of detecting Windows NT
+2004-10-27|248464|Sometimes you can't read the text under the cursor
+2004-10-28|249044|Where did windows minimize to before the taskbar was invented?
+2004-11-01|250610|What was the difference between LocalAlloc and GlobalAlloc?
+2004-11-09|254441|A history of GlobalLock, part 4: A peek at the implementation
+2004-11-10|255047|Why does Windows not recognize my USB device as the same device if I plug it into a different port?
+2004-11-11|255800|Advantages of knowing your x86 machine code
+2004-11-12|256472|Will dragging a file result in a move or a copy?
+2004-11-16|258220|What is this Xerox directory doing in Program Files?
+2004-11-18|264217|If a program and a folder have the same name, the shell prefers the program
+2004-11-18|264243|Am I sorry or not?
+2004-11-19|266664|The various ways of sending a message
+2004-11-22|267890|When people ask for security holes as features: World-writable files
+2004-11-23|268486|Why do folders like "My Pictures" come back after I delete them?
+2004-11-24|269237|Why can't you drop directly onto a taskbar button?
+2004-11-26|270710|Simple things you can do with the ShellExecuteEx function
+2004-11-29|271551|Why doesn't the RunAs program accept a password on the command line?
+2004-11-30|272262|What's the difference between GetKeyState and GetAsyncKeyState?
+2004-12-01|273018|What is the purpose of the bmPlanes member of the BITMAP structure?
+2004-12-02|273721|Why did Windows 95 run the timer at 55ms?
+2004-12-03|274312|Why are documents printed out of order when you multiselect and choose "Print"?
+2004-12-06|275659|Dragging a shell object, part 1: Getting the IDataObject
+2004-12-13|281910|Why do I get E_NOINTERFACE when creating an object that supports that interface?
+2004-12-14|300205|Scientists come one step closer to the perfect poppy-seed bagel
+2004-12-15|313250|The hunt for a faster syscall trap
+2004-12-16|317157|Optimization is often counter-intuitive
+2004-12-20|327369|Don't save anything you can recalculate
+2004-12-22|329884|BOOL vs. VARIANT_BOOL vs. BOOLEAN vs. bool
+2004-12-23|331246|Do you need clean up one-shot timers?
+2004-12-24|331750|Why does the system convert TEMP to a short file name?
+2004-12-24|331751|How to open those plastic packages of electronics without injuring yourself
+2004-12-27|332704|You can create an infinitely recursive directory tree
+2004-12-27|332705|Alton Brown book tour 2005: I'm Just Here for More Food
+2004-12-28|336219|Computing the size of a directory is more than just adding file sizes
+2004-12-29|343664|Using fibers to simplify enumerators, part 1: When life is easier for the enumerator
+2004-12-30|344281|Using fibers to simplify enumerators, part 2: When life is easier for the caller
+2004-12-31|344799|Using fibers to simplify enumerators, part 3: Having it both ways
+2005-01-03|345800|Using fibers to simplify enumerators, part 4: Filtering
+2005-01-04|346274|Using fibers to simplify enumerators, part 5: Composition
+2005-01-05|346888|PulseEvent is fundamentally flawed
+2005-01-06|347666|A rant against flow control macros
+2005-01-07|348437|How can code that tries to prevent a buffer overflow end up causing one?
+2005-01-11|350628|Why doesn't \\ autocomplete to all the computers on the network?
+2005-01-12|351398|User interface design for vending machines
+2005-01-14|352949|Cleaner, more elegant, and harder to recognize
+2005-01-16|347666|A rant against flow control macros
+2005-01-17|354399|How did MS-DOS report error codes?
+2005-01-18|355177|The importance of error code backwards compatibility
+2005-01-19|356048|CreateProcess does not wait for the process to start
+2005-01-20|357225|A 90-byte "whereis" program
+2005-01-21|358109|Why are kernel HANDLEs always a multiple of four?
+2005-01-26|360797|The strangest way of rounding down to the nearest quarter
+2005-01-27|361595|Control how much network bandwith Automatic Updates will use
+2005-01-28|362565|Capturing the current directory from a batch file
+2005-01-31|363790|Why did the Win64 team choose the LLP64 model?
+2005-02-01|364563|How to detect programmatically whether you are running on 64-bit Windows
+2005-02-02|365432|The history of the Windows PowerToys
+2005-02-03|366277|Why is breadth-first searching better for file system tree walking?
+2005-02-07|368423|Why does DS_SHELLFONT = DS_FIXEDSYS | DS_SETFONT?
+2005-02-09|369804|The dangers of filtering window messages
+2005-02-10|370445|Why do minimized windows have an apparent size of 160x31?
+2005-02-11|371042|Windowless controls are not magic
+2005-02-14|372266|LoadLibraryEx(DONT_RESOLVE_DLL_REFERENCES) is fundamentally flawed
+2005-02-17|375307|MsgWaitForMultipleObjects and the queue state
+2005-02-18|376080|Modality, part 1: UI-modality vs code-modality
+2005-02-22|378018|Modality, part 3: The WM_QUIT message
+2005-02-23|378866|Modality, part 4: The importance of setting the correct owner for modal UI
+2005-02-24|379635|Modality, part 5: Setting the correct owner for modal UI
+2005-03-01|382380|Modality, part 7: A timed MessageBox, the cheap version
+2005-03-01|382765|Suggestion Box 2
+2005-03-08|389527|Keep your eye on the code page
+2005-03-09|390706|Using SystemParametersInfo to access user interface settings
+2005-03-10|392118|Why does SystemParametersInfo hang when I pass the SPIF_SENDCHANGE flag?
+2005-03-11|394249|Performance gains at the cost of other components
+2005-03-14|395271|A subtlety in restoring previous window position
+2005-03-15|395866|Windows are not cheap objects
+2005-03-21|399688|Psychic debugging: Why your expensive four-processor machine is ignoring three of its processors
+2005-03-22|400373|Why does the debugger show me the wrong function?
+2005-03-24|401490|Pointers to virtual functions with adjustors
+2005-03-25|402180|If you disable drag/drop on the Start menu, you also disable right-click
+2005-03-25|402181|The invisible price reduction
+2005-03-28|402889|When a program asks you a question and then gets upset if you answer it
+2005-03-28|402891|The CEO-to-English Phrase Book, a continuing series from Slate
+2005-03-29|403298|The dialog manager, part 1: Warm-ups
+2005-03-29|403327|Adventures in product testing: Candles that catch fire
+2005-03-30|403711|The dialog manager, part 2: Creating the frame window
+2005-03-31|404108|The dialog manager, part 3: Creating the controls
+2005-03-31|404109|Neuroscience in the service of basketball fans
+2005-04-11|407130|The end of one of the oldest computers at Microsoft still doing useful work
+2005-04-12|407562|There's an awful lot of overclocking out there
+2005-04-18|409205|What is the HINSTANCE passed to CreateWindow and RegisterClass used for?
+2005-04-19|409620|When people ask for security holes as features: Hiding files from Explorer
+2005-04-21|410397|The Itanium's so-called stack
+2005-04-22|410773|The new scratch program
+2005-04-25|411741|What is the HINSTANCE passed to SetWindowsHookEx used for?
+2005-04-26|412116|Thread messages are eaten by modal loops
+2005-04-29|412577|Building a dialog template at run-time
+2005-05-03|414317|Managing the UI state of accelerators and focus rectangles
+2005-05-04|414602|When people ask for security holes as features: Stealing passwords
+2005-05-05|414910|How do I cover the taskbar with a fullscreen window?
+2005-05-06|415158|How to query properties of the taskbar
+2005-05-09|415714|Developing a Chinese/English dictionary: Introduction
+2005-05-10|415991|Loading the dictionary, part 1: Starting point
+2005-05-11|416430|Loading the dictionary, part 2: Character conversion
+2005-05-16|417865|Loading the dictionary, part 4: Character conversion redux
+2005-05-18|419130|Loading the dictionary, part 5: Avoiding string copying
+2005-05-19|420038|Loading the dictionary, part 6: Taking advantage of our memory allocation pattern
+2005-05-20|420426|I'd like to register my stolen car, please
+2005-05-23|421024|Why are DLLs unloaded in the "wrong" order?
+2005-05-24|421399|Boil first, then mash
+2005-05-24|421440|Understanding ternary raster operations
+2005-05-25|421707|The effect of SetCursor lasts only until the next SetCursor
+2005-05-26|422076|Why does Add or Remove Programs show a large blank space?
+2005-05-27|422551|When is x/2 different from x>>1?
+2005-05-30|423202|You can't simulate keyboard input with PostMessage
+2005-05-30|423203|Shocked (shocked!) that patronage exists in Chicago politics
+2005-05-31|423407|Using modular arithmetic to avoid timing overflow problems
+2005-06-01|423817|Using /LARGEADDRESSAWARE on 64-bit Windows for 32-bit programs
+2005-06-03|424802|Why does Windows XP SP2 sometimes forget my CD autoplay settings?
+2005-06-07|426294|What if two programs did this?
+2005-06-08|426720|Why don't control panel programs and property sheets show up in the taskbar?
+2005-06-09|427240|Why can't the default drag/drop behavior be changed?
+2005-06-15|429338|Displaying the dictionary, part 3: Using an owner-data listview
+2005-06-16|429814|What is the difference between "Unpin from Start menu" and "Remove from this list"?
+2005-06-21|431054|The Date/Time control panel is not a calendar
+2005-06-21|431055|Google is the cute two-year-old girl with curly blond hair that gets all the attention
+2005-06-24|432229|Why can't I get the pixels of a window that isn't visible on screen?
+2005-06-27|432303|Why are there broadcast-based mechanisms in Windows?
+2005-06-28|433341|Why do Microsoft code samples tend to use ZeroMemory instead of { 0 }?
+2005-06-30|434209|Beware of roaming user profiles
+2005-07-01|434647|What's the difference between My Documents and Application Data?
+2005-07-01|434648|I hope you weren't using those undocumented critical section fields
+2005-07-06|436043|What's the point of DeferWindowPos?
+2005-07-07|436435|What are SYSTEM_FONT and DEFAULT_GUI_FONT?
+2005-07-14|438774|Where did the names of the computer Hearts opponents come from?
+2005-07-15|439261|The apocryphal history of file system tunnelling
+2005-07-18|439939|If InitCommonControls doesn't do anything, why do you have to call it?
+2005-07-20|440918|Why does FindFirstFile find short names?
+2005-07-21|441330|FindFirstFile is not a SQL query
+2005-07-22|441785|The importance of passing the WT_EXECUTELONGFUNCTION flag to QueueUserWorkItem
+2005-07-26|443384|What is the difference between WM_DESTROY and WM_NCDESTROY?
+2005-07-27|443824|When the normal window destruction messages are thrown for a loop
+2005-07-29|444912|Does Windows have a limit of 2000 threads per process?
+2005-08-01|445998|Rendering standard Windows elements
+2005-08-02|446605|Rendering menu glyphs is slightly trickier
+2005-08-09|449438|That's about the size of it
+2005-08-10|449865|How can a company get access to Windows Error Reporting data?
+2005-08-10|449866|Why is Windows Error Reporting nicknamed "Dr. Watson"?
+2005-08-15|451752|The poor man's way of identifying memory leaks
+2005-08-16|452141|When people ask for security holes as features: Silent install of uncertified drivers
+2005-08-17|452630|Why is processor affinity inherited by child processes?
+2005-08-18|453054|What are the access rights and privileges that control changing ownership of an object?
+2005-08-19|453612|How many floppy disks did Windows 95 come on?
+2005-08-22|454487|How do you convince developers to pay their "taxes"?
+2005-08-23|455089|Why are icons multiples of 8 pixels in width?
+2005-08-24|455557|Buying an entire Egghead Software store
+2005-08-29|457483|Why is the default console codepage called "OEM"?
+2005-09-02|459952|Precision is not the same as accuracy
+2005-09-05|461035|Spider Solitaire unseats the reigning champion
+2005-09-06|461390|Windows Server 2003 can take you back in time
+2005-09-08|462403|I won't be signing books but don't let that stop you
+2005-09-09|462906|Reading the output of a command from batch
+2005-09-12|463977|Understanding the consequences of WAIT_ABANDONED
+2005-09-14|466051|The double-Ctrl+Alt+Del feature is really a kludge
+2005-09-19|471240|Why doesn't Microsoft give every employee a UPS?
+2005-09-19|471241|Corrections to the answers I gave at the end of my PDC talk
+2005-09-20|471749|Things to do at Microsoft when the power goes out
+2005-09-25|473724|This is an unsupported ride, so if you stop, you will fall over
+2005-09-26|473953|Kurt would have wanted it that way
+2005-09-26|473954|Raymond's 2005 MVP Global Summit event diary
+2005-09-27|474384|COM object destructors are very sensitive functions
+2005-09-29|475298|On objects with a reference count of zero
+2005-09-29|475299|The DHS television show was all a scam, it appears
+2005-09-30|475688|But I have Visual Basic Professional
+2005-09-30|475689|English Cut: Bringing bespoke tailoring into the general consciousness
+2005-09-30|475690|The reverse-engineering of PDC 2005 pass colors
+2005-10-03|476413|Consequences of the scheduling algorithm: Low priority threads can run even when higher priority threads are running
+2005-10-04|476847|Consequences of the scheduling algorithm: Sleeping doesn't always help
+2005-10-05|477317|Running old programs in a virtual machine doesn't necessarily create a good user experience
+2005-10-05|477802|The unfortunate interaction between LOAD_LIBRARY_AS_DATAFILE and DialogBox
+2005-10-07|478215|Your profiling tools can manufacture performance issues where there were none
+2005-10-10|479124|Thread affinity of user interface objects, part 1: Window handles
+2005-10-11|479587|Thread affinity of user interface objects, part 2: Device contexts
+2005-10-12|480064|Thread affinity of user interface objects, part 3: Menus, icons, cursors, and accelerator tables
+2005-10-13|480569|Thread affinity of user interface objects, part 4: GDI objects and other notes on affinity
+2005-10-14|481043|Thread affinity of user interface objects, part 5: Object clean-up
+2005-10-17|481810|The undeletable Outlook folder
+2005-10-19|482632|There's something about Rat Poker
+2005-10-20|483042|Quick and dirty buzzword bingo cards in Excel
+2005-10-20|483043|The things in the PDC 2005 introductory video
+2005-10-25|484602|One person's discoverable feature is another person's annoyance
+2005-10-25|484604|It's like being at the PDC, but without the lines or the tote bag
+2005-10-26|485133|When programs assume that the system will never change, episode 1
+2005-10-27|485595|Why is the OEM code page often called ANSI?
+2005-10-28|486194|How to recognize different types of sentinel timestamps from quite a long way away
+2005-10-28|486195|Even in the enlightened year of 2005, we have programs that don't handle long file names
+2005-10-31|487245|The Hallowe'en-themed lobby
+2005-10-31|487246|Night of the Knitting Dead
+2005-11-01|487658|The COM interface contract rules exist for a reason
+2005-11-01|487660|Bicycling from Mercer Island to Microsoft main campus
+2005-11-07|489807|Take it easy on the automatic retries
+2005-11-10|491299|When was the last time you formatted a floppy disk?
+2005-11-14|492483|What was Dr. Watson's original name?
+2005-11-21|495246|What's the difference between HWND_TOP and HWND_TOPMOST?
+2005-11-23|496248|Semaphores don't have owners
+2005-11-24|496690|What causes a program to be marked as "new" on the Start menu?
+2005-11-25|496954|This video universally gets one of two reactions
+2005-11-25|496955|How to get Raymond to stop being interested in talking with you
+2005-11-28|497442|Taxes: Hierarchical Storage Management
+2005-11-28|497443|Where does an IT guy from a major hotel chain stay at the PDC?
+2005-11-29|497864|Taxes: Geopolitics
+2005-11-29|497865|The craft of UI design: flow|state
+2005-11-30|498399|Sometimes the fault is not in our stars but in ourselves
+2005-11-30|498400|The Airline Screening Playset
+2005-12-01|498882|What one Windows XP feature am I most proud of?
+2005-12-02|499389|Psychic debugging: Why your CPU usage is hovering at 50%
+2005-12-06|500513|When a token changes its meaning mid-stream
+2005-12-08|501558|Using a physical object as a reminder
+2005-12-09|502014|On the inability to support hardware that nobody makes any more
+2005-12-19|505449|Beware the Image File Execution Options key
+2005-12-20|505887|Why does Windows setup lay down a new boot sector?
+2005-12-26|508687|Why did the Windows 95 CD have extra fun stuff?
+2005-12-28|508689|There's more to calling a function than just getting the types to match
+2006-01-03|508694|Taxes: Remote Desktop Connection and painting
+2006-01-04|509194|Taxes: Detecting session state changes, such as a locked workstation
+2006-01-05|509642|Converting between LCIDs and RFC 1766 language codes
+2006-01-09|510781|When programs assume that the system will never change, episode 3
+2006-01-10|511201|The decoy display control panel
+2006-01-17|513779|ReadProcessMemory is not a preferred IPC mechanism
+2006-01-18|514298|The cost of trying too hard: Splay trees
+2006-01-23|516202|If your callback fails, it's your responsibility to set the error code
+2006-01-24|516808|Performance consequences of polling
+2006-01-24|516809|Creepy messages in your baggage
+2006-01-25|517395|You can call MsgWaitForMultipleObjects with zero handles
+2006-01-25|517396|Welcome to the United States, unless you're a Canadian technologist who is an invited guest at a Microsoft conference, in which case, keep out
+2006-01-26|517849|Pumping messages while waiting for a period of time
+2006-01-26|517850|Stephen Tolouse's reminiscences of Windows 95 RTM day
+2006-01-30|519388|Why does a corrupted binary sometimes result in "Program too big to fit in memory"?
+2006-01-30|519389|Liquefied NBA points apparently cannot be sold on eBay
+2006-01-31|520225|Why does the Recycle Bin have different file system names on FAT and NTFS?
+2006-01-31|520227|"I attack the kobold wearing the headdress made of human ears"
+2006-02-02|523171|Be careful when interpreting security descriptors across machine boundaries
+2006-02-03|524073|Mysterious things Steve Yi has eaten
+2006-02-06|525700|Beware of redirected folders, too
+2006-02-10|529525|The dangers of sleeping on a UI thread
+2006-02-16|533250|Because programmers were trusted to do the right thing, part 2
+2006-02-20|535440|Why does my program run faster if I click and hold the caption bar?
+2006-02-21|536055|In pursuit of the message queue
+2006-02-22|536920|The performance cost of reading a registry key
+2006-02-23|537856|Enumerating threads in a process
+2006-02-23|537857|That $9 you got from the PayPal settlement? Taxable income.
+2006-02-28|540579|Raymond, you so write like a girl
+2006-03-06|544496|The ForceAutoLogon setting doesn't do what most people think
+2006-03-07|545295|The consequences of invalidating the null window
+2006-03-08|546177|Why is there no message for disabling the Cancel button on a wizard?
+2006-03-08|546178|Reading the fine print, episode 2: Portable headphones
+2006-03-09|547171|If you ask for a window caption, you also get a border
+2006-03-13|550403|The social skills of a thermonuclear device, part 2
+2006-03-16|552821|Why does the version 6 animation control not use a background thread?
+2006-03-20|555511|Basic ground rules for programming - function parameters and how they are used
+2006-03-21|556505|Why doesn't Windows File Protection use ACLs to protect files?
+2006-03-22|558007|Solving one problem by creating a bigger problem
+2006-03-23|558887|Before you develop a solution, make sure you really understand the problem
+2006-03-27|561924|Why doesn't the window manager just take over behavior that used to be within the application's purview?
+2006-03-28|563008|Why are there two copies of Notepad?
+2006-03-28|563009|The rise and fall of the German language
+2006-03-30|564809|How would you solve this compatibility problem: Network interoperability
+2006-03-31|565878|The network interoperability compatibility problem, first follow-up of many
+2006-04-04|568101|German adjectives really aren't that hard; they just look that way
+2006-04-07|570801|Computing over a high-latency network means you have to bulk up
+2006-04-10|572491|Be very careful if you decide to change the rules after the game has ended
+2006-04-12|574927|Why is the Microsoft Protection Service called "msmpsvc"?
+2006-04-12|574928|News for dummies in French and English
+2006-04-13|575739|Where did the name for Microsoft Access come from?
+2006-04-17|577483|Locale-sensitive number grouping
+2006-04-19|578992|The 2006/2007 Seattle Symphony subscription season at a glance
+2006-04-24|582153|Ich habe meinen Computer zu Deutsch gewechselt
+2006-04-25|583093|No, really, you need to pass all unhandled messages to DefWindowProc
+2006-04-28|586018|What does CS_SAVEBITS do?
+2006-04-28|586020|Grace period for Swedish currency conversion extended to the end of the year
+2006-05-02|588350|A cache with a bad policy is another name for a memory leak
+2006-05-03|589110|The alertable wait is the non-GUI analog to pumping messages
+2006-05-04|589884|Doing quick arithmetic from the command prompt
+2006-05-05|590749|What can I do with the HINSTANCE returned by the ShellExecute function?
+2006-05-08|592350|It rather involved being on the other side of this airtight hatchway
+2006-05-08|592352|Seattle boating season opens but never closes
+2006-05-11|595351|Automatic messages when you're not in the office - the infamous OOF
+2006-05-15|597984|The first word on the command line is the program name only by convention
+2006-05-17|599916|Beware of digits before the redirection operator
+2006-05-17|599917|Don't mention the war. I mentioned it once, but I think I got away with it all right
+2006-05-22|603788|How do I write a regular expression that matches an IPv4 dotted address?
+2006-05-23|604741|That mysterious J
+2006-05-24|605974|Beware the C++ implicit conversion
+2006-05-25|607075|Using Yoda on an x86 may be hazardous to your systems' health
+2006-06-01|612970|What does the CS_OWNDC class style do?
+2006-06-02|614235|What does the CS_CLASSDC class style do?
+2006-06-08|622194|The forgotten common controls: The MenuHelp function
+2006-06-12|628193|Remember what happens when you broadcast a message
+2006-06-13|629451|Fumbling around in the dark and stumbling across the wrong solution
+2006-06-14|630864|Pitfalls of transparent rendering of anti-aliased fonts
+2006-06-19|636824|Announcements on the ferry, one self-explanatory, one not
+2006-06-20|639479|A single-instance program is its own denial of service
+2006-06-22|642849|An auto-reset event is just a stupid semaphore
+2006-06-22|642850|The continuing phenomenon of size inflation in fast food
+2006-06-23|644239|The subtle usability considerations of conference nametags
+2006-06-26|647365|Coding in-place tooltips
+2006-06-27|648493|Using custom-draw in tooltips to adjust the font
+2006-06-27|648495|... so it doesn't poop all over your office
+2006-06-29|650752|Generating tooltip text dynamically
+2006-07-03|655251|Security: Don't forget to initialize the stuff you don't care about
+2006-07-06|657868|Is the maximum size of the environment 32K or 64K?
+2006-07-10|661389|Before you can learn to recognize what's wrong, you must learn to recognize what's right
+2006-07-11|662326|News flash: Big houses have bigger heating bills
+2006-07-12|663365|Pidls and monikers do roughly the same thing, just backwards
+2006-07-13|664448|Glass houses are great places to throw stones
+2006-07-18|669668|How are DLL functions exported in 32-bit Windows?
+2006-07-19|671238|Exported functions that are really forwarders
+2006-07-21|673830|Calling an imported function, the naive way
+2006-07-24|676670|Raise la lanterne rouge
+2006-07-26|679044|What happens when you get dllimport wrong?
+2006-07-28|681473|The efficiency of ordinal-based imports while still being name-based
+2006-08-01|685248|C# nested classes are like C++ nested classes, not Java inner classes
+2006-08-02|686456|The implementation of anonymous methods in C# and its consequences (part 1)
+2006-08-03|687529|The implementation of anonymous methods in C# and its consequences (part 2)
+2006-08-03|687530|News Flash: Big houses also cost more to cool
+2006-08-04|688527|The implementation of anonymous methods in C# and its consequences (part 3)
+2006-08-07|690946|The day Tully's ran out of coffee
+2006-08-08|692129|Candidate for most obscure keyboard shortcut: Shift+F8
+2006-08-09|693280|How were window hooks implemented in 16-bit Windows?
+2006-08-14|699521|Why can't I see all of the 4GB of RAM in my machine?
+2006-08-16|702526|Accessibility is not just for people with disabilities
+2006-08-17|704232|Don't trust the return address, no really
+2006-08-18|705957|Applications and DLLs don't have privileges; users do
+2006-08-21|710754|Sucking the exception pointers out of a stack trace
+2006-08-23|714650|Environment variable expansion occurs when the command is read
+2006-08-24|717181|Moving a file does not recalculate inherited permissions
+2006-08-28|728349|Try to avoid having BOOL function parameters
+2006-09-01|735298|On the unanswerability of the maximum number of user interface objects a program can create
+2006-09-06|742710|You already know what your target architecture is (or at least you should)
+2006-09-11|749489|If you ask a Yes/No question, make sure the user also knows what happens when they say No
+2006-09-12|750575|Grammar review: Verb+particle versus compound noun
+2006-09-15|755966|Allocating and freeing memory across module boundaries
+2006-09-20|763727|Don't forget to unregister your window classes when your DLL shuts down dynamically
+2006-09-21|764634|It's that season again: The Microsoft Company Meeting
+2006-09-22|766168|Things you already know: How do I wait until my dialog box is displayed before doing something?
+2006-09-22|766170|Hand gestures for numbers
+2006-09-25|770536|Waiting until the dialog box is displayed before doing something
+2006-09-26|772222|Isn't DDE all asynchronous anyway?
+2006-09-27|773741|IsBadXxxPtr should really be called CrashProgramRandomly
+2006-09-29|776926|Quotation marks around spaces aren't necessary in the PATH environment variable
+2006-10-02|780255|Does a dual-core processor count as one or two for licensing purposes?
+2006-10-05|792913|Why does Windows hide keyboard accelerators and focus rectangles by default?
+2006-10-13|822124|Why do I see the same fake names in Microsoft samples over and over?
+2006-10-16|831357|640 x 480 is still not dead
+2006-10-17|834921|What does the letter "T" in LPTSTR stand for?
+2006-10-18|838994|Don't require your users to have a degree in philosophy
+2006-10-19|844008|No good deed goes unpunished, part 2
+2006-10-20|849575|How do I shut down a workstation via Remote Desktop?
+2006-10-25|872891|Non-resolution of the dead home desktop problem
+2006-10-26|875991|For a brief shining moment, DirectX was more popular than another word that ends in x
+2006-10-27|880411|The great Polish Sea -or- We forgot Poland!
+2006-11-01|922449|I bet somebody got a really nice bonus for that feature
+2006-11-02|931674|Make sure you disable the correct window for modal UI
+2006-11-03|942851|How do I convert an HRESULT to a Win32 error code?
+2006-11-06|999999|On the importance of backwards compatibility for large corporations
+2006-11-08|1035971|How do I test that return value of ShellExecute against 32?
+2006-11-09|1044151|A modest proposal: Solving the problem of steroids in baseball
+2006-11-14|1075573|Keeping classic hardware alive through emulation
+2006-11-15|1081320|Manipulating the DIB color table for fun and profit
+2006-11-20|1109013|Paradoxically, you should remove the smart card when logging on with a smart card
+2006-11-21|1115695|What is the process by which the cursor gets set?
+2006-11-22|1122581|The quiet dream of placebo settings
+2006-11-23|1128591|Placebo setting: QoS bandwidth reservation
+2006-11-27|1160055|It's not surprising at all that people search for Yahoo
+2006-11-29|1171695|A fork is an easy-to-find nonstandard USB device
+2006-11-30|1178288|It took two of us to keep up with one Bob
+2006-12-01|1184734|Nailing down what constitutes valuable consideration
+2006-12-04|1205831|The name WinMain is just a convention
+2006-12-05|1211409|How do I find all files with at least one space in their name?
+2006-12-06|1223600|If you let people read a file, then they can copy it
+2006-12-07|1233002|Okay, I changed my mind, I wrote a book after all
+2006-12-08|1239911|Do not overload the E_NOINTERFACE error
+2006-12-12|1266392|A high waiter count on a free critical section may indicate a lock convoy
+2006-12-13|1275993|Maybe if it had characters and stuff and different levels, it would be OK
+2006-12-14|1285437|Computing listview infotips in the background
+2006-12-18|1317290|Do not write in-process shell extensions in managed code
+2006-12-19|1325024|I bet somebody is looking to get a really nice bonus for that feature: Attention
+2006-12-26|1365215|The first parameter to VerQueryValue really must be a buffer you obtained from GetFileVersionInfo
+2006-12-27|1369429|The social skills of a thermonuclear device, part 3
+2006-12-28|1374334|Stop the madness: Subdirectories of My Documents
+2007-01-04|1411080|How a bullet turns into a beep
+2007-01-11|1450795|How do I put more than 32,000 characters into a rich text control?
+2007-01-12|1455972|How do I print the contents of a rich text control?
+2007-01-15|1471731|Does Microsoft internally use MFC for writing Windows apps?
+2007-01-16|1478717|EnumChildWindows already enumerates recursively
+2007-01-17|1483974|Should all windows appear in the taskbar?
+2007-01-18|1488858|Email tip: Choose a subject line that is meaningful to the recipient, not to the sender
+2007-01-24|1521924|The undeletable Outlook folder, episode 2
+2007-01-25|1529570|Where did the Windows Vista wallpaper images come from?
+2007-01-26|1537079|The /MAXMEM switch doesn't set the maximum amount of memory Windows will use
+2007-01-26|1537081|The real underground (and subway)
+2007-01-29|1551916|If vertical strips are better, why do toolbars use horizontal strips?
+2007-01-30|1557491|Unusual uses for a ball-point pen: Breaking into the debugger
+2007-01-31|1565656|If you ask an author to sign a book, you have to tell him/her what to write
+2007-02-01|1573160|The network interoperability compatibility problem, second follow-up
+2007-02-06|1612200|Bonus material for The Old New Thing (the book) is now available for download
+2007-02-12|1661757|Performance evaluation euphemisms invading everyday speech (ironically)
+2007-02-13|1669480|Email tip: Don't add people to a thread without saying why
+2007-02-14|1676656|Technology hypochondriacs
+2007-02-15|1683851|Why can't you set the command prompt's current directory to a UNC?
+2007-02-19|1716211|What does LockWindowUpdate do?
+2007-02-20|1726880|How is LockWindowUpdate meant to be used?
+2007-02-21|1735472|With what operations is LockWindowUpdate meant to be used?
+2007-02-22|1742084|With what operations is LockWindowUpdate not meant to be used?
+2007-02-22|1742088|How to get your laptop to resume from standby in under two seconds
+2007-02-23|1747713|Final remarks on LockWindowUpdate
+2007-02-23|1747714|The 2007/2008 Seattle Symphony subscription season at a glance
+2007-02-26|1763683|Please feel free to stop using DDE
+2007-02-26|1763692|The politician's fallacy and the politician's apology
+2007-02-27|1769274|What does an NMI error mean? (The infamous "Hardware Malfunction")
+2007-03-01|1775759|If you have to ask, you're probably doing something wrong
+2007-03-02|1786493|The .Default user is not the default user
+2007-03-08|1834558|Just what the world has been wishing for: Surströmming ice cream
+2007-03-12|1861385|What is a SM_SLOWMACHINE?
+2007-03-14|1878777|Don't require your users to have a degree in philosophy, episode 2
+2007-03-15|1883515|Email tip: Don't forget to ask your question
+2007-03-20|1915586|I bet somebody is looking to get a really nice bonus for that feature: Uninstall
+2007-03-21|1922203|You don't know what you do until you know what you don't do
+2007-03-28|1969032|The social skills of a thermonuclear device, part 4
+2007-03-30|1991616|What do the colors in the elevation dialog mean?
+2007-04-02|2008357|Why do operating system files still adhere to the old 8.3 naming convention?
+2007-04-03|2014992|Why does my thread pool use only one thread?
+2007-04-04|2021921|His lips are moving: In order to serve you better
+2007-04-05|2028099|Why can't I display a tooltip for a disabled window?
+2007-04-06|2036150|Code is read much more often than it is written, so plan accordingly
+2007-04-10|2065725|What is the default version of a header file?
+2007-04-10|2065727|What's the row of numbers on the copyright page of books?
+2007-04-11|2079137|What's the difference between WINVER, _WIN32_WINNT, _WIN32_WINDOWS, and _WIN32_IE?
+2007-04-13|2106139|Email tip: People didn't answer your first email for a reason
+2007-04-16|2148139|Changes to power management in Windows Vista
+2007-04-17|2158334|The Notepad file encoding problem, redux
+2007-04-24|2252261|What is the underlying object behind a COM interface pointer?
+2007-04-24|2252262|How much time does it take for a pedestrian to cross the street?
+2007-04-25|2265923|Identifying an object whose underlying DLL has been unloaded
+2007-04-25|2265924|There's something about Christopher Walken
+2007-04-26|2277346|Using the "gu" debugger command to find the infinite loop
+2007-04-26|2277347|The intermediate value theory helps your table but not necessarily your beer
+2007-04-27|2292037|Stupid debugger tricks: Calling functions and methods
+2007-04-27|2292038|News Flash: Not being able to watch Jay Leno is not an emergency
+2007-04-30|2332224|The default verb is not necessarily "open"
+2007-04-30|2332225|Everyone should have a house pianist
+2007-05-01|2346459|Microspeak: Operationalize
+2007-05-03|2383346|Quick overview of how processes exit on Windows XP
+2007-05-04|2402028|How my lack of understanding of how processes exit on Windows XP forced a security patch to be recalled
+2007-05-11|2532913|Performing an operation in each subdirectory of a directory tree from batch
+2007-05-14|2611278|Service required * Brewer error *
+2007-05-15|2636224|Command lines need to be quoted; paths don't
+2007-05-16|2659903|Why are console windows limited to Lucida Console and raster fonts?
+2007-05-21|2757223|Don't be helpless: I don't know anything about MFC modal loops, but unlike some people, I'm not afraid to find out
+2007-05-22|2777876|You're not my manager, so I'm not going to ask how high when you tell me to jump
+2007-05-23|407234|Suggestion Box 3
+2007-05-29|2955171|Psychic debugging: Why does FormatMessage say the resource couldn't be found?
+2007-06-05|3088031|It's official: The logo for the London 2012 Olympic Games is hideously ugly
+2007-06-06|3106089|Email tip: Lay off the massive email signatures
+2007-06-06|3106091|How not to prepare for the STP (2007 edition)
+2007-06-07|3128210|How do I inflate a bicycle tire with a potato?
+2007-06-11|3215739|What determines which programs show up on the front page of the Windows XP Start menu?
+2007-06-13|3258912|The program doesn't have to be run from the Start menu to earn Start menu points
+2007-06-14|3278670|If you pin a program, it doesn't show up in the frequently-used programs list
+2007-06-15|3301004|What other programs are filtered from the Start menu's list of frequently-used programs?
+2007-06-18|3369797|Why does a new user get stuff on their Start menu right off the bat?
+2007-06-21|3434925|How does the Windows XP Start menu decide that a program is newly-installed?
+2007-06-22|3450172|Even advanced users liked the Windows XP Start menu
+2007-07-02|3652873|Image File Execution Options just inserts the debugger in front of the command line
+2007-07-05|3695356|QueryPerformanceCounter is not a source for unique identifiers
+2007-07-09|3769001|It's not enough to say that something is bad; you have to say what would be better
+2007-07-12|3821577|If you want a modeless dialog, then create a modeless dialog already
+2007-07-16|3885472|How are window manager handles determined in 16-bit Windows and Windows 95?
+2007-07-17|3903614|How are window manager handles determined in Windows NT?
+2007-07-18|3926581|Why is the limit of window handles per process 10,000?
+2007-07-23|4003873|The real cost of compatibility is not in the hacks; the hacks are small potatoes
+2007-07-23|4003924|Tips for doing the Seattle to Portland (STP) in two days: What I learned in 2007
+2007-07-26|4052149|How do the names in the file security dialog map to access control masks?
+2007-07-27|4072156|Don't just grab the foreground window and host UI on it
+2007-07-31|4138786|What is the lpdwHandle parameter in GetFileVersionInfoSize used for?
+2007-08-01|4155462|Footnotes in Win32 history: VLM (Very Large Memory) support
+2007-08-02|4179107|What is the difference between the Folder and Directory (and other special) progids?
+2007-08-07|4268706|It rather involved being on the other side of this airtight hatchway: Executable corruption
+2007-08-09|4300545|How do I get the handle of the primary monitor?
+2007-08-10|4315707|Things I've written that have amused other people, Episode 4
+2007-08-14|4374222|What is the order of evaluation in C#?
+2007-08-15|4392538|C# static constructors are called on demand, not at startup
+2007-08-16|4407029|What are these strange cmp [ecx], ecx instructions doing in my C# code?
+2007-08-17|4422794|What are these spurious nop instructions doing in my C# code?
+2007-08-21|4486197|We're all in this together: Maintaining common tools
+2007-08-22|4500831|Windows Vista has more extended options on the context menu
+2007-08-22|4520252|Disclaimers and such
+2007-08-23|4517137|Nested fly-out menus are a usability nightmare
+2007-09-04|4731478|Does creating a thread from DllMain deadlock or doesn't it?
+2007-09-05|4751155|Whenever there is a coordination problem, somebody says, "Hey, let's create a process!"
+2007-09-12|4872632|Making some statements and asking for advice isn't a question
+2007-09-13|4886108|Why isn't QuickEdit on by default in console windows?
+2007-09-13|4886109|Snatching defeat from the jaws of victory now more popular than vice versa
+2007-09-17|4948130|What do I do with per-user data when I uninstall?
+2007-09-17|4948131|Nearly everybody has a $500 flashlight
+2007-09-18|4966024|Why is my delay-rendered format being rendered too soon?
+2007-09-20|5002739|It rather involved being on the other side of this airtight hatchway: Elevation to administrator
+2007-09-20|5002740|Find the Flowers vs Minesweeper
+2007-09-21|5021765|What's the BS_PUSHLIKE button style for?
+2007-09-24|5083738|How do I put a different wallpaper on each monitor?
+2007-09-25|5108967|Microspeak: Going forward
+2007-09-27|5155193|Why did the shortcut template change in Windows Vista?
+2007-10-01|5216600|Suggestion Box 3, short answers (part 1 of who knows how many)
+2007-10-08|5351207|Which windows appear in the Alt+Tab list?
+2007-10-10|5386979|Microspeak: Actionable
+2007-10-11|5395501|Whose idea was it to make Ctrl+Backspace delete the previous word?
+2007-10-15|5455304|Why aren't shortcuts as easy as unix links?
+2007-10-16|5465592|How do I delay the automatic logon process?
+2007-10-17|5478031|The wrong way to check whether the mouse buttons have been swapped
+2007-10-23|5612082|Superstition: Why is GetFileAttributes the way old-timers test file existence?
+2007-10-24|5636575|What's the difference between LVM_HITTEST and LVM_INSERTMARKHITTEST?
+2007-10-25|5658731|What's the deal with the EM_SETHILITE message?
+2007-10-26|5681471|If you pass enough random numbers, eventually one of them will look valid
+2007-10-26|5681472|The King County Council race gets even stranger
+2007-10-29|5750353|Why doesn't Explorer show recursive directory size as an optional column?
+2007-10-30|5773153|You can't change it, but you can hide it and add something that looks like it
+2007-10-31|5788080|It rather involved being on the other side of this airtight hatchway: Local execution
+2007-11-01|5807020|Why does GetDiskFreeSpaceEx return the wrong amount of free space?
+2007-11-05|5896166|Why do we even have the DefWindowProc function?
+2007-11-06|5924058|VirtualLock only locks your memory into the working set
+2007-11-07|5948256|Proto-Microspeak: Pre-envisioning
+2007-11-08|5973122|The Old New Thing (the book) allegedly now stocked at the Microsoft Company Store (Redmond)
+2007-11-13|6157507|Amusing bug reports: On poetry and prose
+2007-11-15|6234771|Is DEP on or off on Windows XP Service Pack 2?
+2007-11-16|6281925|In Windows XP, even when DEP is on, it's still sometimes off
+2007-11-19|6383774|If you want a menu that shows the contents of the My Computer folder, you already know how to do it
+2007-11-20|6383774|If you want a menu that shows the contents of the My Computer folder, you already know how to do it
+2007-11-20|6415714|You even have to watch out for your placeholder bitmaps
+2007-11-21|6447771|Hidden gotcha: The command processor's AutoRun setting
+2007-11-26|6523907|Why are INI files deprecated in favor of the registry?
+2007-11-27|6538227|When you compress a drive, some files are exempted, but you can force it, and then it's your problem
+2007-11-27|6538230|What to do when the steering column is stuck and the ignition won't turn
+2007-11-28|6564257|The importance of the FORMAT_MESSAGE_IGNORE_INSERTS flag
+2007-11-29|6588498|The first day at Microsoft: Don't just stand there
+2007-12-03|6644060|How do 16-bit programs start up?
+2007-12-05|6648388|Welcome to the Microsoft email culture
+2007-12-06|5973122|The Old New Thing (the book) allegedly now stocked at the Microsoft Company Store (Redmond)
+2007-12-06|6648392|Am I for real or just a robot? part 2
+2007-12-12|6648399|When selecting system colors, match but don't mix
+2007-12-13|6648400|AppInit_DLLs should be renamed Deadlock_Or_Crash_Randomly_DLLs
+2007-12-17|6785519|How did wildcards work in MS-DOS?
+2007-12-18|6794821|Book review: Advanced Windows Debugging (Mario Hewardt and Daniel Pravat)
+2007-12-19|6801084|How do I mark a shortcut file as requiring elevation?
+2007-12-24|6849530|What was the role of MS-DOS in Windows 95?
+2007-12-26|6865673|Microthink: If you can't measure it, then it doesn't exist
+2007-12-27|6873648|If you need anything other than natural alignment, you have to ask for it
+2007-12-31|6909007|Why aren't console windows themed on Windows XP?
+2008-01-07|7011066|Clean-up functions can't fail because, well, how do you clean up from a failed clean-up?
+2008-01-08|7022158|Taxes: Files larger than 4GB
+2008-01-08|7022159|Generating initials from a name is trickier than you think
+2008-01-10|7047497|How does the calculator percent key work?
+2008-01-11|7065021|Windows is not an MFC delivery channel
+2008-01-14|7103585|No matter where you put an advanced setting, somebody will tell you that you are an idiot
+2008-01-15|7113860|Use WM_WINDOWPOSCHANGED to react to window state changes
+2008-01-16|7123299|Use WM_WINDOWPOSCHANGING to intercept window state changes
+2008-01-18|7145021|Why do registry keys have a default value?
+2008-01-21|7181075|When computer programmers dabble in economics: Paying parking tickets
+2008-01-23|7203582|Email tip: Don't use a rude subject line just to make your message easier to spot
+2008-01-25|7230100|The classic start menu is even more classic than it looks
+2008-01-29|7294949|The history of the Windows XP common controls
+2008-01-30|7315957|Even without a nitpicker's corner, I have to worry about nitpickers
+2008-01-31|7337160|Shell policy is not the same as security
+2008-02-01|7362840|Pass the whipped partially hydrogenated soybean and coconut oils, please
+2008-02-04|7439592|DLL forwarding is not the same as delay-loading
+2008-02-06|7479707|When there's a problem with the platform, you blame the platform, whether it's the platform's fault or not
+2008-02-07|7502464|What did MakeProcInstance do?
+2008-02-11|7596539|Why does Ctrl+ScrollLock cancel dialogs?
+2008-02-13|7658352|Controlling which devices will wake the computer out of sleep
+2008-02-15|7703996|Joshua Roman groupies may have to set up their frequent flyer accounts
+2008-02-18|7761976|Why does Explorer show a + sign even if there are no child folders?
+2008-02-18|7761978|What's with all those spam ping-bots?
+2008-02-19|7784127|When you ask somebody to take a look, you need to tell them what you want them to find
+2008-02-20|7806911|There can be more than one (or zero): Converting a process to a window
+2008-02-22|7843406|Microspeak: Assorted babble
+2008-02-25|7885570|When somebody gives you a gift of code, it's more often than not a burden in disguise
+2008-02-26|7897723|Losing the game of Last Checkin Chicken two products in a row
+2008-02-27|7912126|If you ask for STANDARD_RIGHTS_REQUIRED, you may as well ask for the moon
+2008-02-28|7925962|Why are process and thread IDs multiples of four?
+2008-02-29|7938836|Why can't I get FormatMessage to load my resource string?
+2008-02-29|7938837|The 2008/2009 Seattle Symphony subscription season at a glance
+2008-03-03|7994007|What do rocket scientists say when they want to say that something isn't hard?
+2008-03-04|8014283|Email tip: A peer-to-peer discussion group does not come with a service level agreement
+2008-03-05|8039816|Not my finest hour: Using the wrong mouse
+2008-03-07|8080064|The art of losing things: Keep moving them around
+2008-03-10|8080067|Why isn't there a GetDlgItemFloat function?
+2008-03-11|8080077|What a drag: Dragging text
+2008-03-12|8080101|What a drag: Dragging a Uniform Resource Locator (URL)
+2008-03-13|8080135|What a drag: Dragging a Uniform Resource Locator (URL) and text
+2008-03-14|8080140|If you grant somebody SeDebugPrivilege, you gave away the farm
+2008-03-18|8080183|What a drag: Dragging a virtual file (HGLOBAL edition)
+2008-03-19|8080215|What a drag: Dragging a virtual file (IStream edition)
+2008-03-20|8080229|What a drag: Dragging a virtual file (IStorage edition)
+2008-03-21|8328132|How to write like Raymond: What I tell you three times is true
+2008-03-24|8332730|What's the difference between the COM and EXE extensions?
+2008-03-26|8336829|Why are structure names different from their typedef names?
+2008-03-27|8338530|Why do structures get tag names even if there is a typedef?
+2008-03-27|8338531|Meet Deltalina, the star of Delta's new in-flight safety video
+2008-03-28|8340624|Microspeak: Newplacement
+2008-03-28|8340625|The most academically elite team in college basketball, in quest for their first conference win in 21 years
+2008-03-31|8344799|2008 Q1 link clearance: Microsoft blogger edition
+2008-04-01|8346907|Pranksters breathe a sigh of relief: There will never be a Building 7
+2008-04-03|8352719|How do I force the ECHO command to echo?
+2008-04-04|8355308|STATUS_BUFFER_OVERFLOW really should be named STATUS_BUFFER_OVERFLOW_PREVENTED
+2008-04-07|8364033|What happened to winipcfg and netmon?
+2008-04-10|8370479|Use the #error directive to check whether the compiler even sees you
+2008-04-14|8389268|Why doesn't Explorer let you create a file whose name begins with a dot?
+2008-04-16|8398400|Raymond's reading list: The Mythical Man-Month, The Design of Everyday Things, and Systemantics
+2008-04-17|8399914|One-line batch script to delete empty directories
+2008-04-21|8413175|Windows doesn't close windows when a user logs off; that's your call
+2008-04-24|8420242|User interface code + multi-threaded apartment = death
+2008-04-30|8440202|Book me the next flight to Tokyo, no wait, the second flight
+2008-05-01|8445488|Why every advertising agency needs to have a review panel of twelve-year-old boys
+2008-05-02|8447913|You didn't know you could add properties by atom, and it's a good thing you didn't know
+2008-05-05|8459022|If you pass invalid parameters, then all bets are off
+2008-05-06|8461730|Psychic debugging: Why does ExitProcess(1) produce an exit code of zero?
+2008-05-07|8464281|Apparently I've been promoted by mistake all these years
+2008-05-14|8502228|Why always "Windows XP" and "Windows Vista" and not just "XP" and "Vista"?
+2008-05-15|8505492|Build a slide show out of search results
+2008-05-16|8510192|If users can shut down the machine, it's not a security hole if they can shut down the machine
+2008-05-19|8518565|Why is the function SHStripMneumonic misspelled?
+2008-05-21|8525411|Another interesting detail from the analysis of Windows Error Reporting data for Explorer
+2008-05-22|8530603|Microspeak: On-board (verb)
+2008-05-23|8535427|What does TranslateAccelerator do?
+2008-05-27|8553638|You can't give away something that isn't yours
+2008-05-27|8553639|The cultural axes of punctuality and waiting in line
+2008-05-28|8555658|Reading a contract from the other side: SHSetInstanceExplorer and SHGetInstanceExplorer
+2008-05-28|8555659|India Calling: Call centers from the Indian point of view
+2008-05-29|8557109|The sad demise of whimsical teasing in Comic Chat
+2008-05-30|8560817|Why are some GDI functions named ExtXxx instead of XxxEx?
+2008-05-30|8560818|Behind the Scenes at Mythbusters does not include experiments or explosions
+2008-06-03|8570614|Food products that are offenses against nature: Bisquick Shake 'n Pour
+2008-06-04|8572362|Why has my clipboard stopped working?
+2008-06-09|8582411|Why are DLLs uninitialized in the "wrong" order?
+2008-06-18|8612930|MSDN-speak: What does it mean when a parameter contains a value?
+2008-06-20|8623417|Donations to the Microsoft Archives: Pens, CDs, and paperweights
+2008-06-23|8640472|Just because you're using a smart pointer class doesn't mean you can abdicate understanding what it does
+2008-06-23|8640473|Raymond misreads acronyms: MSPP-PVP
+2008-06-24|8644367|Don't require your users to have a degree in philosophy, episode 3
+2008-06-25|8649735|The difference between a junior and senior position at a video card company
+2008-06-27|8659071|GUIDs are globally unique, but substrings of GUIDs aren't
+2008-07-01|8673981|Windows Vista changed the Alt+Tab order slightly
+2008-07-03|8682463|How did the invalid floating point operand exception get raised when I disabled it?
+2008-07-07|8699128|Why is the LOADPARMS32 structure so messed up?
+2008-07-08|8705315|Wikipedia has created its own reactionary subculture
+2008-07-14|8730046|Why does the "Install Font" dialog look so old-school?
+2008-07-16|8735896|The evolution of menu templates: 32-bit extended menus
+2008-07-22|8762762|Windows could not properly load the XYZ keyboard layout
+2008-07-23|8765362|Theorize if you want, but if the problem is right there in front of you, why not go for the facts?
+2008-07-24|8768095|Reading a contract from the other side: Simulating a drop
+2008-07-30|8790272|When I double-click an Excel spreadsheet, Excel opens but the document doesn't
+2008-07-30|8790836|What does each country claim for its own?
+2008-07-31|8792699|Don't be helpless: You can put things together, it doesn't have to be a single command
+2008-08-01|8795860|I warned you: The dangers of attaching input queues
+2008-08-04|8824356|Why, when you sort by name, doesn't it actually sort by name?
+2008-08-05|8832510|Microspeak: The long pole
+2008-08-06|8835317|The caret serves as the continuation character for batch files
+2008-08-07|8839510|If the law says you can't file a petition, you might need to file it anyway, in case somebody later says that you should've even though the law says you couldn't
+2008-08-08|8841951|If you return FALSE from DLL_PROCESS_ATTACH, will you get a DLL_PROCESS_DETACH?
+2008-08-12|8849519|The implementation of iterators in C# and its consequences (part 1)
+2008-08-13|8854601|The implementation of iterators in C# and its consequences (part 2)
+2008-08-14|8862242|The implementation of iterators in C# and its consequences (part 3)
+2008-08-14|8862243|The gradual erosion of the car trip experience
+2008-08-15|8868267|The implementation of iterators in C# and its consequences (part 4)
+2008-08-19|8877486|It's not Christmas: Nobody enjoys unwrapping your present
+2008-08-20|8880062|Icons and cursors know where they came from
+2008-08-21|8880075|Why does Explorer generate a page fault every two seconds?
+2008-08-26|8896167|Microspeak: Pencils down
+2008-09-01|8914664|How do I convert an error code to text when FORMAT_MESSAGE_FROM_SYSTEM doesn't work?
+2008-09-02|8918130|Tales from the interview: Can you rotate this two-dimensional array?
+2008-09-08|8931563|QueryPerformanceCounter counts elapsed time, not CPU cycles
+2008-09-10|8938051|What were ShellExecute hooks designed for?
+2008-09-12|8945692|Who is responsible for destroying the font passed in the WM_SETFONT message?
+2008-09-16|8953255|The purpose of charts is normally to make information easier, not harder, to understand
+2008-09-18|8956382|How can I tell that a directory is really a recycle bin?
+2008-09-19|8957958|How can I tell that a directory is weird and should be excluded from the user interface?
+2008-09-19|8957959|Steamy coffee leaves grounds for concern
+2008-09-22|8960761|I've seen why people steal the foreground window for their dialog box
+2008-09-26|8965755|ERRORLEVEL is not %ERRORLEVEL%
+2008-09-29|8966821|Anybody can make up a generic mapping
+2008-10-01|8969394|Why do maximized windows lose their title bar translucency?
+2008-10-01|8969395|An artist's conception of the new citizenship test
+2008-10-02|8969396|The dangers of setting your double-click speed too short
+2008-10-03|8969397|Acquire and release sound like bass fishing terms, but they also apply to memory models
+2008-10-06|8969399|Eventually, nothing is special any more
+2008-10-08|8969401|Why does the Disk Management snap-in report my volume as Healthy when the drive is dying?
+2008-10-13|8969404|Why does killing Winlogon take down the entire system?
+2008-10-14|8998849|Why does Task Manager let me kill critical system processes?
+2008-10-16|9001218|Psychic debugging: Why your thread is spending all its time processing meaningless thread timers
+2008-10-20|9006720|Why can't you thunk between 32-bit and 64-bit Windows?
+2008-10-21|9008384|Strange things happen when you let people choose their own name, part 1
+2008-10-22|9010540|Strange things happen when you let people choose their own name, part 2
+2008-10-23|9011948|Strange things happen when you let people choose their own name, part 3
+2008-10-24|9013856|Sucking the trap frame out of a kernel mode stack trace
+2008-10-27|9018239|Ah, local Los Angeles television news, how I miss thee
+2008-10-28|9019618|To climb the corporate ladder you'll need some rope, but rope has many purposes
+2008-10-29|9021161|Why does my Run dialog say that tasks will created with administrative privileges?
+2008-10-30|9023340|If you're going to reformat source code, please don't do anything else at the same time
+2008-10-30|9023344|Dude, the admission bracelet goes around your wrist
+2008-11-05|9043631|Microspeak: Represent
+2008-11-07|9051091|Self-esteem gone overboard: The perils of a global namespace
+2008-11-10|9056610|How slow do you have to slow-double-click for it to be a rename?
+2008-11-11|9059013|You can't fight in here; this is the War Room!
+2008-11-12|9061065|Doesn't matter what your marketing technique is for your compiler if nobody actually writes code in your language any more
+2008-11-20|9126834|If everything is top priority, then nothing is top priority
+2008-11-21|9131198|The great thing about priorities is that you can always go one higher
+2008-11-26|9143050|The cost-benefit analysis of bitfields for a collection of booleans
+2008-11-28|9148951|Just because a method is called Refresh doesn't mean that it refreshes what you want
+2008-12-01|9159146|Don't be helpless: You can find information too, if you try (episode 2)
+2008-12-04|9172708|When you start getting in-page errors on your hard drive, it's time to go shopping for a new hard drive
+2008-12-08|9182990|A file can go by multiple names, but two files can't have the same name
+2008-12-10|9188555|How do I change the directory Windows uses for user profiles?
+2008-12-11|9193695|Don't use global state to manage a local problem
+2008-12-15|9216764|Why does the Explorer address bar reset itself while you're typing into it?
+2008-12-17|9229556|How to create a Zune podcast from an audiobook or other files you already have
+2008-12-18|9233149|How do I obtain the computer manufacturer's name?
+2008-12-22|9244582|On 64-bit Windows, 32-bit programs run in an emulation layer, and if you don't like that, then don't use the emulator
+2008-12-22|9244583|The Fargo campus responds to Redmond's December 2008 storm conditions
+2008-12-31|9257840|Sorry, I don't get calls on this phone often
+2009-01-01|9259142|How do I write a program that can be run either as a console or a GUI application?
+2009-01-02|9265754|Why doesn't Windows 95 format floppy disks smoothly?
+2009-01-06|9284334|Microspeak: Learnings
+2009-01-07|9286576|When debugging a stack overflow, you want to focus on the repeating recursive part
+2009-01-12|9306611|How does PostQuitMessage know which thread to post the quit message to?
+2009-01-19|9339091|Why isn't the screen resolution a per-user setting?
+2009-01-20|9341164|If you didn't like the answer, asking the same question again is unlikely to help
+2009-01-21|9353310|If you have full trust, then you can do anything, so don't be surprised that you can do bad things, too
+2009-01-22|9360856|Why do I get the error REGDB_E_IIDNOTREG when I call a method that returns an interface?
+2009-01-26|9375457|But then we ran into problems when we started posting 10,000 messages per second
+2009-01-27|9376606|There's camping, and then there's luxury camping, and then there's ridiculous luxury camping
+2009-02-02|9388941|How do I programmatically show and hide the Quick Launch bar?
+2009-02-03|9392202|Microspeak: Recommends (noun)
+2009-02-03|9392203|The 2009/2010 Seattle Symphony subscription season at a glance
+2009-02-04|9394113|What is the terminology for describing the various parts of the registry?
+2009-02-05|9397154|What the various registry data types mean is different from how they are handled
+2009-02-11|9411700|If you get confused by a register dump, then you'll just have to accept that some of my postings won't make any sense
+2009-02-12|9411700|If you get confused by a register dump, then you'll just have to accept that some of my postings won't make any sense
+2009-02-12|9413816|What does the COM Surrogate do and why does it always stop working?
+2009-02-13|9416485|The checkbox: The mating call of the loser
+2009-02-16|9425124|Don't keep track of information you don't need
+2009-02-17|9426787|Why doesn't the file system have a function that tells you the number of files in a directory?
+2009-02-19|9432917|Why do my file properties sometimes show an Archive check box and sometimes an Advanced button?
+2009-02-20|9435239|Foreground activation permission is like love: You can't steal it, it has to be given to you
+2009-02-20|9435240|Announcements on the ferry, and hills that grew while I was away
+2009-02-23|9440784|Why is there no supported way to get the command line of another process?
+2009-02-24|9441993|Rob Cockerham investigates those companies that pay cash for gold
+2009-02-25|9443404|Smart quotes: The hidden scourge of text meant for computer consumption
+2009-02-26|9445006|Pressing a registered hotkey gives you the foreground activation love
+2009-02-27|9447775|How does Raymond decide what to post on any particular day?
+2009-03-04|9457799|Microspeak: Year-over-year
+2009-03-06|9461176|Why is the Win32 epoch January 1, 1601?
+2009-03-12|9471146|Engineering is about tradeoffs: How hard will you work to save 68KB of disk space?
+2009-03-19|9488508|Defense in depth means that you protect against exploits that don't exist yet
+2009-03-23|9500125|What's the point of the MoveWindow function when we already have SetWindowPos?
+2009-04-02|9528175|Windows 95 almost had floppy insertion detection but the training cost was prohibitive
+2009-04-09|9539191|Being able to call a function without using GetProcAddress is not a security vulnerability
+2009-04-10|9541813|When people ask to disable drag and drop, they often are trying to disable accidental drag and drop
+2009-04-13|9546604|Why is there no support in the window manager for mouse button chording?
+2009-04-16|9551818|The frustration of people who are not interested in why something works but only interested in the magic phrase they need to type
+2009-04-17|9551818|The frustration of people who are not interested in why something works but only interested in the magic phrase they need to type
+2009-04-17|9553626|Why is the animation common control limited to RLE8-compressed animations?
+2009-04-20|9556040|Principles of economics, translated
+2009-04-22|9560726|What structure packing do the Windows SDK header files expect?
+2009-04-27|9570300|The Start menu pin list is just a list of items; there's no magic
+2009-04-30|9577283|Those notification icons, with their clicks, double-clicks, right-clicks... what's up with that?
+2009-05-01|9581563|When advanced users outsmart themselves: The device removal notification icon
+2009-05-05|9587053|The social skills of a thermonuclear device: Why did you hang up?
+2009-05-07|9592397|When you subclass a window, it's the original window procedure of the window you subclass you have to call when you want to call the original window procedure
+2009-05-08|9595334|Writing a sort comparison function, redux
+2009-05-11|9601136|How do I get a window back on the screen when it moved far, far away?
+2009-05-12|9605143|Microspeak: T-shirt sizing
+2009-05-22|9634512|Chicken chicken chicken chicken
+2009-05-25|9639553|Why can't you change the alignment of an edit control after it has been created?
+2009-05-25|9639554|The latest installment of Wallace and Gromit coming to Seattle
+2009-05-26|9640962|What do you call a gadget that is used for debugging which looks at the properties of other gadgets?
+2009-05-26|9640963|How to hide privacy violations in a privacy disclosure statement, part 2
+2009-05-27|9642809|Before designing and implementing around an assumption, it helps to check that your assumption is true
+2009-05-28|9645162|I'm sorry, you don't have permission to know where this shortcut file should show up in the Explorer window
+2009-05-28|9645163|An unexpected application of the First Law of Thermodynamics
+2009-05-29|9651067|Alternatives to using the #error directive to check whether the compiler even sees you
+2009-05-29|9651068|Lessons from the state police, like what to do when they pull you over
+2009-06-03|9687937|What does the "Zw" prefix mean?
+2009-06-10|9718865|Why does MS-DOS use 8.3 filenames instead of, say, 11.2 or 16.16?
+2009-06-11|9725386|Why does Explorer use the term KB instead of KiB?
+2009-06-18|9771135|The dangers of mixing synchronous and asynchronous state
+2009-06-22|9796531|Why does a flashing taskbar result in a fullscreen console returning to windowed mode?
+2009-06-26|9804500|The thread that gets the DLL_PROCESS_DETACH notification is not necessarily the one that got the DLL_PROCESS_ATTACH notification
+2009-07-03|9815394|Why does my screen go black when an emergency hibernation is in progress?
+2009-07-06|9818299|A 32-bit application can allocate more than 4GB of memory, and you don't need 64-bit Windows to do it
+2009-07-07|9820997|More musings on the peculiar linguistic status of languages acquired in childhood
+2009-07-09|9825126|MS-DOS also allowed spaces in file names, although vanishingly few programs knew how to access them
+2009-07-10|9827869|If dynamic DLL dependencies were tracked, they'd be all backwards
+2009-07-14|9832544|The fun and profit of manipulating the DIB color table can be done without having to modify it
+2009-07-15|9833677|Separating the metadata from the DIB pixels: Precalculating the BITMAPINFO
+2009-07-16|9834856|Separating the metadata from the DIB pixels: Changing the raster operation
+2009-07-17|9836293|The disembodiment of DIBs from the DIB section
+2009-07-23|9845443|Your debugging code can be a security hole: Contest tickets
+2009-07-27|9849503|Polling by sleeping versus polling by waiting with a timeout
+2009-07-28|9850416|How do I quickly position two windows side by side?
+2009-07-30|9852685|What is the difference between CSIDL_DESKTOP and CSIDL_DESKTOPDIRECTORY?
+2009-07-30|9852686|How do I quickly position two windows side by side using only the keyboard?
+2009-08-03|9855912|A burglar tells you the best place to hide your money
+2009-08-04|9856634|Programming means that sometimes you have to snap two blocks together
+2009-08-10|9862758|Why doesn't String.Format throw a FormatException if you pass too many parameters?
+2009-08-12|9865216|Why can't I pass a reference to a derived class to a function that takes a reference to a base class by reference?
+2009-08-13|9867383|Common gotchas when writing your own p/invoke
+2009-08-14|9869049|Why can't I declare a type that derives from a generic type parameter?
+2009-08-18|9873193|Microspeak: Action on
+2009-08-19|9874776|There's no law that says a meeting can't end early
+2009-08-20|9876113|Why does Windows wait longer than my screen saver idle timeout before starting the screen saver?
+2009-08-21|9877791|Restating the obvious about the WM_NOTIFY message
+2009-08-27|9886147|What is the maximum number of timers a program can create?
+2009-08-28|9887637|The great thing about naming conventions is that not everybody will follow them
+2009-08-28|9887638|A different perspective from the first row of the symphony
+2009-08-31|9889168|And they don't take American Express
+2009-09-01|9889624|One way to make sure nobody sends you feedback
+2009-09-02|9890140|The wheels of government bureaucracy turn slowly: Green cards
+2009-09-03|9890650|Woe unto PROGMAN.INI
+2009-09-21|9897553|What is the logic behind the thumb size and position calculation in scroll bars?
+2009-09-28|9900082|Why doesn't Explorer have an interface for creating hard links?
+2009-09-30|9901065|Why do messages posted by PostThreadMessage disappear?
+2009-10-01|9901585|In the search for the subtle source of the problem, you sometimes overlook the obvious one
+2009-10-05|9903476|Why doesn't the mail image resizer check the image size before offering to resize?
+2009-10-07|9904046|I will be speaking at Reflections|Projections 2009
+2009-10-08|9904646|What is the format of a double-null-terminated string with no strings?
+2009-10-08|9904647|In Hawaiʻi, "mahalo" might officially mean "thank you"
+2009-10-21|9910264|Please, sir take a seat, sit anywhere you like, but oh, no, not there, rats
+2009-10-22|9911087|Once you announce a date, you're already late
+2009-10-26|9912711|Why won't my computer go to sleep? Where is the energy going?
+2009-10-29|9914426|What this batch file needs is more escape characters
+2009-11-02|9915989|Hey, is there somebody around to accept this award?
+2009-11-04|9917052|Good advice comes with a rationale so you can tell when it becomes bad advice
+2009-11-04|9917053|In the product end game, every change carries significant risk
+2009-11-09|9919503|How do I create a toolbar that sits in the taskbar?
+2009-11-09|9919504|Stories of anticipating dead computers: Windows Home Server
+2009-11-10|9919908|Little-known command line utility: clip
+2009-11-10|9919922|I reorganized your kitchen for you, sweetie
+2009-11-11|9920544|Leave it to the Taiwanese to think of wrapping a donut inside another donut
+2009-11-12|9921112|Why can you create a PIF file that points to something that isn't an MS-DOS program?
+2009-11-13|9921676|You thought reasoning about signals was bad, reasoning about a total breakdown of normal functioning is even worse
+2009-11-17|9923301|How to tell when your patent has been approved
+2009-11-19|9924950|We're using a smart pointer, so we can't possibly be the source of the leak
+2009-11-20|9925918|The difference between assignment and attachment with ATL smart pointers
+2009-11-23|9927055|Can I talk to that William fellow? He was so helpful
+2009-11-24|9927970|When computer programmers dabble in making change
+2009-11-25|9928372|How do I get the command line of another process?
+2009-11-27|9929238|Caches are nice, but they confuse memory leak detection tools
+2009-11-30|9929944|Where did WIN32_LEAN_AND_MEAN come from?
+2009-12-01|9930480|Microspeak: Cookie licking
+2009-12-02|9931183|A shell extension is a guest in someone else's house; don't go changing the carpet
+2009-12-03|9931711|What is the effect of setting the /3GB switch on my 64-bit Windows machine?
+2009-12-07|9933241|What is the story behind multimon.h?
+2009-12-07|9933270|I'm sorry, Brian/Bryan Gregory, that confirming the spelling of your name is too much for you to handle
+2009-12-08|9933836|How do I determine the processor's cache line size?
+2009-12-09|9934348|What are those little overlay icons: Windows 7 edition
+2009-12-10|9934911|Only an idiot would have parameter validation, and only an idiot would not have it
+2009-12-14|9936347|Why did the word Start disappear from the Start button?
+2009-12-17|9937972|What was the ShowCursor function intended to be used for?
+2009-12-22|9939868|No, you can't lock icons to the user's desktop
+2009-12-24|9940797|Why don't we create a special class of programs which can break the normal rules?
+2009-12-24|9940798|The NPR Planet Money one-hour story competition: The shopping mall convention
+2009-12-25|9941074|Merry Christmas to me: Zune headphones
+2009-12-28|9941455|How does the keyboard autorepeat setting work?
+2009-12-29|9941779|How do I minimize a group of windows in Windows 7 from the taskbar?
+2009-12-30|9942121|Even your folder icons can be used as a Rorschach test
+2009-12-30|9942122|Join the Seattle Symphony for a New Year Eve's performance of Beethoven's Nin... wait a second...
+2009-12-31|9942465|Why does COM require output pointers to be initialized even on failure?
+2009-12-31|9942466|2009 year-end link clearance
+2010-01-07|9944908|Learning how to cheat at Candy Land
+2010-01-11|9946369|Pros and cons of using a four-year-old as your language instructor
+2010-01-18|9949605|People just like you, for certain values of you
+2010-01-22|9951750|During process termination, the gates are now electrified
+2010-01-27|9953807|If you are trying to understand an error, you may want to look up the error code to see what it means instead of just shrugging
+2010-01-28|9954432|What idiot would hard-code the path to Notepad?
+2010-01-29|9955078|How do I suppress full window drag/resize for just one window?
+2010-02-01|9956102|Why can't I use the linker to delay-load a function from kernel32?
+2010-02-03|9957320|What is the maximum length of an environment variable?
+2010-02-08|9959494|For better performance, set all your monitors to the same color format
+2010-02-08|9959495|The 2010/2011 Seattle Symphony subscription season at a glance
+2010-02-12|9962359|How do I get information about the target of a symbolic link?
+2010-02-15|9963387|Advocating the overthrow of the government of the United States by force or subversion
+2010-02-16|9964049|The fundamental rule of rocket science
+2010-02-16|10101773|It rather involved being on the other side of this airtight hatchway: Invalid parameters from one security level crashing code at the same security level
+2010-02-19|9966132|How many servings are there in a single-serve cup? The answer might surprise you
+2010-02-22|9967161|Custom navigation in dialog boxes, redux
+2010-02-22|9967162|On the Internet, everybody wants to know if you're a dog
+2010-02-23|9967787|Le Chatelier's principle in action: Announcements
+2010-02-24|9968407|Why does the CBS_SORT combo box style sort the left square bracket so strangely?
+2010-02-24|9968409|German language tip: Matratzen = mattresses, Matrosen = sailors
+2010-02-25|9969014|What happens to the fibers which ran on a thread when the thread exits?
+2010-02-25|9969015|Food products that are offenses against nature: Bagel-fuls
+2010-02-26|9969664|It's fine to use fibers, but everybody has to be on board with the plan
+2010-02-26|9969665|Microwave popcorn enthusiast proudly proclaims, "I *am* popcorn!"
+2010-03-04|9972520|What happens if I drag the mouse by exactly the amount specified by SM_CXDRAG?
+2010-03-05|9973225|How do I access the magic IEEE floating point values like NaN in code?
+2010-03-11|9976571|Application compatibility layers are there for the customer, not for the program
+2010-03-12|9977245|Why does the OLE variant date format use 30 December 1899 as its zero point?
+2010-03-15|9978691|A window can have a parent or an owner but not both
+2010-03-16|9979112|Why does my control send its notifications to the wrong window after I reparent it?
+2010-03-17|9980011|What is DLL import hinting?
+2010-03-18|9980802|What is DLL import binding?
+2010-03-19|9981515|How does delay-loading use binding information?
+2010-03-22|9982671|Why does SHFileOperation have internal error codes for DVD?
+2010-03-23|9983312|Why does it take longer to reject an invalid password than to accept a valid one?
+2010-03-25|9984720|WaitForInputIdle should really be called WaitForProcessStartupComplete
+2010-03-26|9985422|WaitForInputIdle waits for any thread, which might not be the thread you care about
+2010-03-31|9987779|The great thing about URL encodings is that there are so many to choose from
+2010-03-31|9987780|2010 Q1 link clearance: Microsoft blogger edition
+2010-04-02|9989235|Why do non-folders in my shell namespace extension show up in the folder tree view?
+2010-04-07|9991494|How to edit the security attributes of more than one file at a time
+2010-04-12|9994016|How do I switch a window between normal and fullscreen?
+2010-04-13|9994760|It's a miracle humanity has survived this far, if reaction to the inability to make or receive a telephone call is to be believed
+2010-04-14|9995509|When you create an object with constraints, you have to make sure everybody who uses the object understands those constraints
+2010-04-15|9996248|Why are there two values for NoDriveTypeAutoRun which disable Autoplay on drives of unknown type?
+2010-04-19|9998139|Why does the wireless connection dialog ask for your password twice?
+2010-04-20|9998806|The difference between your job and your hobby
+2010-04-21|9999675|Email tip: When you say that something didn't work, you have to say how it didn't work
+2010-04-22|10000406|Email tip: When asking for help with a problem, also mention what you've already tried
+2010-04-23|10001186|Why can't I get my regular expression pattern to match words that begin with %?
+2010-04-23|10001187|Our legal department suggests you skip our salad dressing and just eat an avocado
+2010-04-26|10002291|Why doesn't TryEnterCriticalSection try harder?
+2010-04-27|10002865|He bought the whole seat, but we only needed the edge
+2010-04-28|10003540|What happens to the contents of a memory-mapped file when a process is terminated abnormally?
+2010-04-29|10004218|A short puzzle about heap expansion
+2010-04-30|10004931|If it's not yours, then don't mess with it without permission from the owner
+2010-04-30|10004932|Welcome to Taiwan's premier English-only nightclub
+2010-05-03|10006065|How do I accept files to be opened via IDropTarget instead of on the command line?
+2010-05-05|10007461|How the shell converts an icon location into an icon
+2010-05-10|10009448|Why can programs empty the clipboard when they start up?
+2010-05-14|10009454|How do I prevent users from dragging and dropping files in Explorer?
+2010-05-17|10013609|If Windows 3.11 required a 32-bit processor, why was it called a 16-bit operating system?
+2010-05-20|10013612|We've traced the call and it's coming from inside the house: Operating system names
+2010-05-25|10014185|Why doesn't the Windows Vista copy progress dialog show the names of the files being copied?
+2010-05-26|10015253|How do I find the bounding box for a character in a font?
+2010-05-31|10017567|That's a great idea, it's on the list
+2010-06-02|10018607|The giant typewriter eraser in the Olympic Sculpture Park in Seattle
+2010-06-03|10019214|How do I convert an ANSI string directly to UTF-8?
+2010-06-04|10019758|How do I enable and disable the minimize, maximize, and close buttons in my caption bar?
+2010-06-07|10020654|Is it real that you are still using Visual C++ 6 and 5?
+2010-06-10|10022675|When you set a 100% CPU program to real-time priority, you get what you asked for
+2010-06-15|10024931|What does the PRE in PREfast stand for?
+2010-06-17|10026183|As random as I wanna be: Why cmd.exe's %RANDOM% isn't so random
+2010-06-22|10028276|How do I customize the Favorite Links section of the File Open dialog?
+2010-06-25|10029898|My life as a square (pixel)
+2010-06-29|10031848|The illusory repair powers of black electrical tape
+2010-06-30|10031848|The illusory repair powers of black electrical tape
+2010-06-30|10032415|Management fallacy: If I send people email, then they will work harder
+2010-07-05|10034375|One small silver lining of moving Boeing headquarters to Chicago
+2010-07-08|10035641|How do I configure a Remote Desktop Connection shortcut to open on a specific monitor?
+2010-07-09|10036162|What's the difference between LastWriteTime and ChangeTime in FILE_BASIC_INFO?
+2010-07-12|10036953|What is the cost of WS_CLIPSIBLINGS if the sibling windows don't overlap?
+2010-07-13|10037412|Tips for planning your ship party
+2010-07-20|10040074|Suggestion Box 4
+2010-07-21|10040699|No, you can't lock a gadget to the top of the sidebar
+2010-07-22|10041190|Things I've written that have amused other people, Episode 7
+2010-07-22|10041191|I will be speaking at TechReady11
+2010-07-23|10041656|If I'm not supposed to call IsBadXxxPtr, how can I check if a pointer is bad?
+2010-07-26|10042389|Why didn't Windows XP auto-elevate programs beyond those named setup.exe?
+2010-07-27|10042791|Hardware backward compatibility: The finicky floppy drive
+2010-07-28|10043237|The frustration of people who have already decided on the solution and won't let you derail them with your annoying questions
+2010-07-29|10043635|Why is my icon being drawn at the wrong size when I call DrawIcon?
+2010-07-29|10043710|Holy cow, those TechReady attendees really love their tchotchkes
+2010-07-30|10044061|Decoding the parameters of a thrown C++ exception (0xE06D7363)
+2010-08-03|10045199|Don't forget to replace your placeholder bitmaps with real bitmaps
+2010-08-06|10046812|Some known folders cannot be moved, but others can, and you'll just have to accept that
+2010-08-09|10047586|Everybody thinks about garbage collection the wrong way
+2010-08-10|10048149|When does an object become available for garbage collection?
+2010-08-10|10048150|Everybody thinks about CLR objects the wrong way (well not everybody)
+2010-08-11|10048629|How do I get the reference count of a CLR object?
+2010-08-13|10049634|When do I need to use GC.KeepAlive?
+2010-08-17|10050774|What was that story about the WinHelp pen-writing-in-book animation?
+2010-08-18|10051229|Microspeak: The funnel
+2010-08-19|10051737|I challenge you to come up with an even lamer physics pun
+2010-08-20|10052301|Miss France, she has the Eiffel Tower on her head, because France has the Eiffel Tower, and no other country does, so she put it on her head, that's why
+2010-08-23|10052986|Be careful that your splash screen doesn't squander the foreground love
+2010-08-27|10054832|If you return from the main thread, does the process exit?
+2010-08-30|10055608|On LockWindowUpdate: Locking the taskbar
+2010-08-31|10056050|Shutdown reason codes are reason codes, not error codes or HRESULTs
+2010-08-31|10056051|Be on the alert: Mainstream and alternative medicines mixed together on the store shelves, not clearly distinguished
+2010-09-07|10058649|How do I customize the order of items in the All Programs section of the Start menu?
+2010-09-09|10059575|Flushing your performance down the drain, that is
+2010-09-10|10060082|Hey there token, long time no see! (Did you do something with your hair?)
+2010-09-12|10060082|Hey there token, long time no see! (Did you do something with your hair?)
+2010-09-14|10061479|Microspeak: Sats
+2010-09-15|10061950|How do I create a UNC to an IPv6 address?
+2010-09-17|10063629|What's up with the strange treatment of quotation marks and backslashes by CommandLineToArgvW
+2010-09-24|10067120|Does anybody actually like Brazil nuts?
+2010-09-29|10069021|Where did my mail control panel icon go?
+2010-09-30|10069580|Why doesn't the TAB key work on controls I've marked as WS_TABSTOP?
+2010-09-30|10069581|2010 Q3 link clearance: Microsoft blogger edition
+2010-10-04|10070943|Why is the origin at the upper left corner?
+2010-10-06|10071954|Wildly popular computer game? The Windows product team has you covered
+2010-10-08|10073039|Why does my asynchronous I/O request return TRUE instead of failing with ERROR_IO_PENDING?
+2010-10-11|10073890|Why does each drive have its own current directory?
+2010-10-12|10074411|Why are the keyboard scan codes for digits off by one?
+2010-10-14|10075623|The memcmp function reports the result of the comparison at the point of the first difference, but it can still read past that point
+2010-10-18|10077133|The evolution of the ICO file format, part 1: Monochrome beginnings
+2010-10-19|10077610|The evolution of the ICO file format, part 2: Now in color!
+2010-10-20|10078140|How do I get the dimensions of a cursor or icon?
+2010-10-21|10078690|The evolution of the ICO file format, part 3: Alpha-blended images
+2010-10-22|10079192|The evolution of the ICO file format, part 4: PNG images
+2010-10-27|10081263|How do I programmatically invoke Aero Peek on a window?
+2010-11-04|10085797|The story of MUI, as told by others (with some commentary)
+2010-11-05|10086404|Why does the Win32 Time service require the date to be correct before it will set the time?
+2010-11-08|10087413|Is there any vendor bias in the way the Start menu determines which programs are most frequently used?
+2010-11-09|10087919|The curse of the current directory
+2010-11-10|10088566|Your debugging code can be a security vulnerability: Loading optional debugging DLLs without a full path
+2010-11-11|10089223|Using delayload to detect functionality is a security vulnerability
+2010-11-12|10089878|Why does the common file dialog change the current directory?
+2010-11-16|10091537|If you measure something, people will change their behavior to address the measurement and not the thing the measurement is intended to measure
+2010-11-17|10092277|How full does a hard drive have to get before Explorer will start getting concerned?
+2010-11-18|10092914|One possible reason why ShellExecute returns SE_ERR_ACCESSDENIED and ShellExecuteEx returns ERROR_ACCESS_DENIED
+2010-11-19|10093594|What's the difference between the Windows directory and the System directory?
+2010-11-22|10094489|Consequences of using variables declared __declspec(thread)
+2010-11-23|10095215|But who's going to set up their own email server?
+2010-11-25|10096329|What if two programs did this? Practical exam
+2010-11-30|10097857|Microspeak: Take-away
+2010-12-01|10097859|How do I delete bytes from the beginning of a file?
+2010-12-01|10099005|I will be speaking at TechEd China 2010 today
+2010-12-02|10097860|The alignment declaration specifier is in bytes, not bits
+2010-12-03|10097861|ZOMG! This program is using 100% CPU!1! Think of the puppies!!11!!1!1!eleven
+2010-12-08|10101773|It rather involved being on the other side of this airtight hatchway: Invalid parameters from one security level crashing code at the same security level
+2010-12-09|10101773|It rather involved being on the other side of this airtight hatchway: Invalid parameters from one security level crashing code at the same security level
+2010-12-09|10102459|What appears superficially to be a line is actually just a one-dimensional mob
+2010-12-10|10103068|Some notes on my trip to Beijing disguised as travel tips
+2010-12-14|10104452|The subtleties of a Will Ferrell movie, and other observations from the in-flight entertainment on a Chinese airline
+2010-12-15|10105142|There is no interface for preventing your notification icon from being hidden
+2010-12-16|10105888|Why does SHCOLUMNINFO have unusually tight packing?
+2010-12-17|10106259|The OVERLAPPED associated with asynchronous I/O is passed by address, and you can take advantage of that
+2010-12-20|10107027|Developing the method for taking advantage of the fact that the OVERLAPPED associated with asynchronous I/O is passed by address
+2010-12-21|10107494|How do I simulate input without SendInput?
+2010-12-22|10108152|The __fortran calling convention isn't the calling convention used by FORTRAN
+2010-12-23|10108275|What is the correct way of temporarily changing a thread's preferred UI language?
+2010-12-27|10109154|Why can't you use the space bar to select check box and radio button elements from a menu?
+2010-12-28|10109449|Windows 7 not only can make a wallpaper slide show from images on your computer, it can even pull them from an RSS feed
+2010-12-29|10109789|Psychic debugging: When I copy a file to the clipboard and then paste it, I get an old version of the file
+2010-12-30|10110077|WindowFromPoint, ChildWindowFromPoint, RealChildWindowFromPoint, when will it all end?
+2010-12-31|10110525|2010 year-end link clearance
+2011-01-06|10112270|Processes, commit, RAM, threads, and how high can you go?
+2011-01-07|10112755|When does a process ID become available for reuse?
+2011-01-11|10114058|The message text limit for the Marquee screen saver is 255, even if you bypass the dialog box that prevents you from entering more than 255 characters
+2011-01-12|10114521|My, what strange NOPs you have!
+2011-01-14|10115610|What's the difference between an asynchronous PIPE_WAIT pipe and a PIPE_NOWAIT pipe?
+2011-01-18|10116870|Don't just stand around saying somebody should do something: Be someone
+2011-01-19|10117410|Why didn't they use the Space Shuttle to rescue the Apollo 13 astronauts?
+2011-01-20|10117963|How to turn off the exception handler that COM "helpfully" wraps around your server
+2011-01-21|10118482|Modality, part 9: Setting the correct owner for modal UI, practical exam
+2011-01-21|10118483|The 2011/2012 Seattle Symphony subscription season at a glance
+2011-01-24|10119211|There's a default implementation for WM_SETREDRAW, but you might be able to do better
+2011-01-25|10119675|Why does the name of my TEMP directory keep changing?
+2011-01-26|10120297|Microspeak: Leverage
+2011-01-27|10120844|How do you obtain the icon for a shortcut without the shortcut overlay?
+2011-01-28|10121300|Some remarks on VirtualAlloc and MEM_LARGE_PAGES
+2011-01-31|10122197|Solutions that require a time machine: Making applications which require compatibility behaviors crash so the developers will fix their bug before they ship
+2011-02-02|10123392|Ready... cancel... wait for it! (part 1)
+2011-02-03|10124060|Ready... cancel... wait for it! (part 2)
+2011-02-08|10125927|Microspeak: Recycling bits or recycling electrons
+2011-02-10|10127054|Psychic debugging: Because of course when something doesn't work, it's because the program was sabotaged from above
+2011-02-11|10127763|How do specify that a shortcut should not be promoted as newly-installed on the Start menu?
+2011-02-15|10129271|Window message parameters do not come with metaphysical certitude
+2011-02-16|10129908|What is the difference between a directory and a folder?
+2011-02-17|10130680|What is the highest numerical resource ID permitted by Win32?
+2011-02-18|10131176|WM_NCHITTEST is for hit-testing, and hit-testing can happen for reasons other than the mouse being over your window
+2011-02-28|10134679|If you want to use GUIDs to identify your files, then nobody's stopping you
+2011-03-01|10135157|No, not that M, the other M, the one called Max
+2011-03-02|10135747|Although the x64 calling convention reserves spill space for parameters, you don't have to use them as such
+2011-03-03|10136241|If you're waiting for I/O to complete, it helps if you actually have an I/O to begin with
+2011-03-07|10137456|What's the difference between FreeResource and, say, DestroyAcceleratorTable
+2011-03-08|10137879|Microspeak: Cadence
+2011-03-09|10138401|How to rescue a broken stack trace: Recovering the EBP chain
+2011-03-10|10138969|How do I create a topmost window that is never covered by other topmost windows?
+2011-03-11|10139574|Why does my TIME_ZONE_INFORMATION have the wrong DST cutover date?
+2011-03-15|10140985|Why can't Explorer decide what size a file is?
+2011-03-18|10142859|You can extend the PROPSHEETPAGE structure with your own bonus data
+2011-03-22|10144082|Why is there the message '!Do not use this registry key' in the registry?
+2011-03-23|10144592|Function requirements are cumulative: If you fail to meet any of them, then all bets are off
+2011-03-24|10145093|How can I generate a consistent but unique value that can coexist with GUIDs?
+2011-03-25|10145644|How do I monitor, or even control, the lifetime of an Explorer window?
+2011-03-28|10146459|Why did Win32 define BOOL as a signed int instead of an unsigned int?
+2011-03-31|10147981|Having an owner window from another process is tricky, but it's sometimes the right thing to do
+2011-04-01|10148494|The introduction of whimsical teasing in Comic Chat
+2011-04-04|10149346|Windows is not a .NET Framework delivery channel either
+2011-04-05|10149783|Lock-free algorithms: Choosing a unique value (warm-up)
+2011-04-06|10150261|Lock-free algorithms: The singleton constructor
+2011-04-06|10150262|Lock-free algorithms: Choosing a unique value (solutions)
+2011-04-07|10150728|Lock-free algorithms: The one-time initialization
+2011-04-08|10151159|Lock-free algorithms: The singleton constructor (answer to exercises)
+2011-04-08|10151258|Patterns for using the InitOnce functions
+2011-04-11|10151878|Holding down the shift key when right-clicking lets you pin things to the Start menu even when you might have been better off not doing so
+2011-04-12|10152296|Lock-free algorithms: The try/commit/(try again) pattern
+2011-04-13|10152929|Lock-free algorithms: Update if you can I'm feeling down
+2011-04-14|10153633|Lock-free algorithms: The opportunistic cache
+2011-04-15|10154245|Lock-free algorithms: The try/commit/(hand off) model
+2011-04-19|10155452|Visual Studio 2005 gives you acquire and release semantics for free on volatile memory access
+2011-04-20|10156014|Corrections to Patterns for using the InitOnce functions
+2011-04-21|10156539|The performance improvements of a lock-free algorithm is often not in the locking
+2011-04-22|10156894|Even if you have a lock, you can borrow some lock-free techniques
+2011-04-26|10157902|No, you can't ask whether your notification icon is visible or not
+2011-04-27|10158395|How do I pin a program directly to the Start menu rather than a shortcut?
+2011-04-28|10158865|Microspeak: Hipo
+2011-05-02|10159880|The Importance of Being Snooki
+2011-05-03|10160201|Like a chicken talking to a duck
+2011-05-04|10160655|Why don't the file timestamps on an extracted file match the ones stored in the ZIP file?
+2011-05-05|10161168|Your program loads libraries by their short name and you don't even realize it
+2011-05-06|10161590|A function pointer cast is a bug waiting to happen
+2011-05-09|10162286|Sorting is a state and a verb (and a floor wax and a dessert topping)
+2011-05-10|10162728|Why is hybrid sleep off by default on laptops? (and how do I turn it on?)
+2011-05-11|10163169|Why double-null-terminated strings instead of an array of pointers to strings?
+2011-05-12|10163578|Looking at the world through kernel-colored glasses
+2011-05-17|10165117|Why does Explorer show a thumbnail for my image that's different from the image?
+2011-05-19|10166093|Why is my program terminating with exit code 3?
+2011-05-20|10166505|BeginBufferedPaint: It's not just for buffered painting any more
+2011-05-25|10168020|WinMain is just the conventional name for the Win32 process entry point
+2011-05-27|10168422|Why are custom properties created on Windows 2000 lost when I view the file from newer versions of Windows?
+2011-05-30|10168423|Just for fun: Sample user names in Windows 7
+2011-06-01|10170113|How do I prevent users from pinning my program to the taskbar?
+2011-06-06|10171462|Why do Group Policy settings require me to have a degree in philosophy?
+2011-06-07|10171801|You'd think that with the name scratch, people wouldn't expect it to be around for a long time
+2011-06-08|10172338|Microspeak: The planned unplanned outage, and other operations jargon
+2011-06-09|10172702|PE resources must be 4-byte aligned, but that doesn't stop people from trying other alignments
+2011-06-17|10175502|How do I make a window remain visible even when the user selects Show Desktop?
+2011-06-20|10176772|In Windows, the directory is the application bundle
+2011-06-21|10177190|How to get Windows Media Player to single-step a video
+2011-06-22|10177613|How do I compress files (via NTFS compression) from the command line?
+2011-06-23|10178000|What happens when applications try to copy text by sending Ctrl+C
+2011-06-24|10178386|Why doesn't my MessageBox wrap at the right location?
+2011-06-29|10181137|What happens to WPARAM, LPARAM, and LRESULT when they travel between 32-bit and 64-bit windows?
+2011-06-30|10181645|The UseUrl attribute in the App Paths key indicates that your application can accept a URL on the command line
+2011-07-05|10182985|Microspeak: Reporting through
+2011-07-06|10183368|Looking at the problem at the wrong level: Closing a process's stdin
+2011-07-07|10183884|Be careful when redirecting both a process's stdin and stdout to pipes, for you can easily deadlock
+2011-07-07|10183885|And... that cadence means it's halftime, concert-goers!
+2011-07-08|10184375|We've traced the pipe, and it's coming from inside the process!
+2011-07-11|10185024|Windows has supported multiple UI languages for over a decade, but nobody knew it
+2011-07-14|10186292|What is that horrible grinding noise coming from my floppy disk drive?
+2011-07-14|10186372|Photoshop meme: Mark Reynolds casually eating sunflower seeds
+2011-07-19|10187683|Some mailing lists come with a negative service level agreement, but that's okay, because everybody is in on the joke
+2011-07-20|10188033|How do I find the original name of a hard link?
+2011-07-21|10188368|Why is secur32.dll called secur32.dll and not secure32.dll?
+2011-07-22|10188770|How do I disable windowless control support in dialog boxes?
+2011-07-25|10189298|How is it possible to run Wordpad by just typing its name even though it isn't on the PATH?
+2011-07-26|10189675|No, we're not going to play Stairway to Heaven, and please tell everbody else in your area code to stop calling me
+2011-07-27|10190103|Luxurifying the camping experience in a different direction
+2011-07-28|10190102|You don't need to ask me a question the compiler can answer more accurately
+2011-07-28|10190521|Simulating input via WM_CHAR messages may fake out the recipient but it won't fake out the input system
+2011-07-29|10190885|Hey, let's report errors only when nothing is at stake!
+2011-08-02|10191834|Microspeak: Dogfood
+2011-08-02|10191835|An even easier way to get Windows Media Player to single-step a video
+2011-08-03|10192225|A shell extension is a guest in someone else's house; don't go changing the code page
+2011-08-04|10192588|Why doesn't \b match word boundaries correctly?
+2011-08-09|10193832|Why does the Shift+F10 menu differ from the right-click menu?
+2011-08-12|10195186|ReadDirectoryChangesW reads directory changes, but what if the directory doesn't change?
+2011-08-16|10195932|Why does creating a shortcut to a file change its last-modified time... sometimes?
+2011-08-19|10197553|Why are the alignment requirements for SLIST_ENTRY so different on 64-bit Windows?
+2011-08-22|10198302|You don't make something easier to find by hiding it even more deeply
+2011-08-23|10198735|Why doesn't the Open Files list in the Shared Folders snap-in show all my open files?
+2011-08-25|10200026|Stupid command-line trick: Counting the number of lines in stdin
+2011-08-26|10200583|Random musings on the introduction of long file names on FAT
+2011-08-30|10202076|How can I get information about the items in the Recycle Bin?
+2011-08-31|10203215|Modernizing our simple program that retrieves information about the items in the Recycle Bin
+2011-09-09|10208136|Throwing garbage on the sidewalk: The sad history of the rundll32 program
+2011-09-15|10208975|What happens to a sent message when SendMessageTimeout reaches its timeout?
+2011-09-15|10211688|Some preliminary notes from //build/ 2011
+2011-09-16|10208976|Why can't I PostMessage the WM_COPYDATA message, but I can SendMessageTimeout it with a tiny timeout?
+2011-09-20|10213802|Random notes from //build/ 2011
+2011-09-21|10214405|Why do Windows functions all begin with a pointless MOV EDI, EDI instruction?
+2011-09-22|10215053|Why does my single-byte write take forever?
+2011-09-23|10215586|Why does my asynchronous I/O complete synchronously?
+2011-09-26|10216420|Sending a window a WM_DESTROY message is like prank calling somebody pretending to be the police
+2011-09-28|10217445|Does this operation work when impersonating? The default answer is NO
+2011-09-29|10217910|Appearing to succeed is a valid form of undefined behavior, but it's still undefined
+2011-09-30|10218385|2011 Q3 link clearance: Microsoft blogger edition
+2011-10-01|10217445|Does this operation work when impersonating? The default answer is NO
+2011-10-05|10220088|The unattend file lets you configure Windows while it's installing, and in some cases it's your only chance
+2011-10-07|10221348|During process termination, slim reader/writer locks are now also electrified
+2011-10-10|10222560|How do I access a file without updating its last-access time?
+2011-10-11|10222996|Why does copying a file to my USB thumb drive say that the parameter is incorrect?
+2011-10-11|10222997|Microspeak: Bug jail
+2011-10-13|10222997|Microspeak: Bug jail
+2011-10-14|10224956|When your vice president tells you to stop replying to a mail thread, you probably should stop replying to the mail thread
+2011-10-24|10229097|If the shell is written in C++, why not just export its base classes?
+2011-10-28|10230811|Why isn't my transparent static control transparent?
+2011-11-01|10231862|The power of statistical photography
+2011-11-07|10234436|The life story of the SwitchToThisWindow function
+2011-11-07|10234437|Percentages may not add up to 100%, but not for the reason you suggest
+2011-11-08|10234788|Microspeak: Level-set
+2011-11-10|10235540|How can I tell whether a DLL has been registered?
+2011-11-11|10235970|Stupid Raymond talent: Screaming carrier
+2011-11-15|10237051|Fontography term or pretentious blather?
+2011-11-16|10237502|How can I tell whether a COM pointer to a remote object is still valid?
+2011-11-17|10237911|Why can't I install this DLL via Regsvr32 /i?
+2011-11-21|10238971|Why not use animated GIFs as a lightweight alternative to AVIs in the animation common control?
+2011-11-25|10241394|How to insert a large number of items into a treeview efficiently
+2011-12-02|10243553|Don't let more than one process try to read from stdin at the same time
+2011-12-06|10244432|A feature I didn't even know existed much less had a name: Color hot-track
+2011-12-08|10245330|What does it mean when my program exits with the message "This application has requested the Runtime to terminate it in an unusual way"?
+2011-12-12|10246541|How can I tell whether a window is modal?
+2011-12-14|10247399|The peculiar cadence of executive mail messages
+2011-12-16|10248328|Programmatically controlling which handles are inherited by new processes in Win32
+2011-12-19|10249000|Paint messages will come in as fast as you let them
+2011-12-20|10249408|Microspeak: Offline (noun)
+2011-12-23|10250556|How do I get the full path for the target of a shortcut file?
+2011-12-26|10251026|Why is the file size reported incorrectly for files that are still being written to?
+2011-12-27|10251210|Introducing the for-if anti-pattern
+2012-01-03|10252533|Why don't ZIP files have the FILE_ATTRIBUTE_COMPRESSED attribute?
+2012-01-05|10253268|When DLL_PROCESS_DETACH tells you that the process is exiting, your best bet is just to return without doing anything
+2012-01-06|10253727|Why did HeapFree fail with ERROR_POSSIBLE_DEADLOCK?
+2012-01-11|10255330|How can I detect the language a run of text is written in?
+2012-01-11|10255331|What a steal: A house for only ten dollars!
+2012-01-16|10256947|Why was there a font just for drawing symbols on buttons?
+2012-01-17|10257351|Microspeak: Walls and ladders
+2012-01-18|10257834|Don't try to allocate memory until there is only x% free
+2012-01-19|10258258|Why do Microsoft customer records use the abbreviation "cx" for customer?
+2012-01-20|10258690|How do FILE_FLAG_SEQUENTIAL_SCAN and FILE_FLAG_RANDOM_ACCESS affect how the operating system treats my file?
+2012-01-23|10259472|Can OANOCACHE be used for non-debug purposes?
+2012-01-24|10259826|A single-handed effort to keep the memory of $2 bills alive
+2012-01-25|10260334|How do I disable the fault-tolerant heap?
+2012-01-26|10260761|The 2012/2013 Seattle Symphony subscription season at a glance
+2012-01-27|10261046|Does mapping the same shared memory two times in a process lead to double the address space usage?
+2012-01-30|10261611|Why does it take Task Manager longer to appear when you start it from the Ctrl+Alt+Del dialog?
+2012-02-06|10264229|The story of the mysterious WINA20.386 file
+2012-02-10|10266256|Fancy use of exception handling in FormatMessage leads to repeated "discovery" of security flaw
+2012-02-13|10267063|Why did the Windows 95 Start button have a secret shortcut for closing it?
+2012-02-17|10268840|How do I find out which process has a file open?
+2012-02-20|10269537|What's the difference between Text Document, Text Document - MS-DOS Format, and Unicode Text Document?
+2012-03-05|10277439|Why doesn't the Maximize button maximize across all monitors?
+2012-03-06|10278049|Why does Explorer ignore seconds when sorting by Date Modified?
+2012-03-07|10278793|Why do program files go into the Program Files directory?
+2012-03-12|10281143|If you have multiple versions of Windows installed, why do they all try to adjust the clock?
+2012-03-13|10281708|Microspeak: Friction
+2012-03-14|10282406|How do I get mouse messages faster than WM_MOUSEMOVE?
+2012-03-15|10283336|Why does the VerQueryValue function give me the wrong file version number?
+2012-03-19|10284794|The most exciting part of my morning is catching my bus, specifically, making the transfer
+2012-03-20|10285187|In 1993, Microsoft stole my colleague's car
+2012-03-21|10285701|Isn't there a race condition in GetFileVersionInfoSize?
+2012-03-22|10286128|Why does my window style change when I call SetWindowText?
+2012-03-23|10286665|Why is the Heap32Next function incredibly slow on Windows 7?
+2012-03-23|10286666|Beverage Gas Division of Central Welding Supply
+2012-03-26|10287385|Why does a maximized window have the wrong window rectangle?
+2012-03-27|10287823|Amusing message on a whiteboard in the hallway
+2012-03-28|10288227|Converting to Unicode usually involves, you know, some sort of conversion
+2012-03-29|10288686|Why can't I delete a file immediately after terminating the process that has the file open?
+2012-03-30|10289176|How do I perform shell file operations while avoiding shell copy hooks?
+2012-04-03|10290129|Introducing the unrolled-switch anti-pattern
+2012-04-05|10290954|You can use an OVERLAPPED structure with synchronous I/O, too
+2012-04-06|10291324|Registration-free COM the old-fashioned way: The car mp3 player
+2012-04-10|10292051|Microspeak: scoped to
+2012-04-11|10292442|I know that an overlapped file handle requires an lpOverlapped, but why does it (sometimes) work if I omit it?
+2012-04-12|10292868|What is the real maximum length of a DNS name?
+2012-04-13|10292868|What is the real maximum length of a DNS name?
+2012-04-16|10293933|Why do we need IsDialogMessage at all?
+2012-04-18|10294731|Why doesn't the Version tab show up for very large files?
+2012-04-24|10296903|I thought I was so clever, salvaging an old floppy drive from a dead computer, but I didn't think *two* steps ahead...
+2012-04-25|10297385|How do I prevent users from opening TIF files?
+2012-04-30|10298919|What were the tests that WinG did to evaluate video cards?
+2012-04-30|10298920|When you don't speak a language, don't sound like you speak the language
+2012-05-01|10299322|What happened to the Summary information created on Windows 2000 and Windows XP?
+2012-05-02|10299709|Why is there sometimes a long delay between pressing a hotkey for a shortcut and opening the shortcut?
+2012-05-04|10300670|How does the MultiByteToWideChar function treat invalid characters?
+2012-05-07|10301625|Why are the Windows 7 system notification icons colorless?
+2012-05-14|10304701|What is the historical reason for MulDiv(1, -0x80000000, -0x80000000) returning 2?
+2012-05-17|10306078|How to view the stack of threads that were terminated as part of process teardown from the kernel debugger
+2012-05-17|10306079|Charles Petzold is back with another edition of Programming Windows
+2012-05-18|10306501|How to view the stack of threads that were terminated as part of process teardown from user mode
+2012-05-21|10307822|What was the registry like in 16-bit Windows?
+2012-05-22|10308528|Why is the Close button in the upper right corner?
+2012-05-23|10309199|GUIDs are designed to be unique, not random
+2012-05-25|10310148|The extern "C" specifier disables C++ mangling, but that doesn't mean it disables mangling
+2012-05-31|10312066|What happens if I call KillTimer with a NULL hwnd?
+2012-06-04|10314472|Why does PrintWindow hate CS_PARENTDC? Because EVERYBODY hates CS_PARENTDC!
+2012-06-06|10315550|Don't be helpless: What might be the reason for a "Path not found" error?
+2012-06-07|10315550|Don't be helpless: What might be the reason for a "Path not found" error?
+2012-06-14|10319617|Now that Windows makes it harder for your program to block shutdown, how do you block shutdown?
+2012-06-17|10319617|Now that Windows makes it harder for your program to block shutdown, how do you block shutdown?
+2012-06-18|10321212|What is the history of the GetRandomRgn function?
+2012-06-19|10321772|It's not a good idea to give multiple controls on a dialog box the same ID
+2012-06-20|10321982|When embedding a dialog inside another, make sure you don't accidentally create duplicate control IDs
+2012-06-27|10324278|How did my hard drive turn into a TARDIS?
+2012-06-28|10324808|You still need the "safe" functions even if you check string lengths ahead of time
+2012-06-29|10325295|How did real-mode Windows patch up return addresses to discarded code segments?
+2012-06-29|10325296|2012 mid-year link clearance
+2012-07-02|10325908|Tracking shortcuts and the early history of multiple monitors
+2012-07-05|10326972|How your taskbar auto-hide settings can keep getting overwritten
+2012-07-16|10330028|How much gets localized in a localized version of Windows?
+2012-07-17|10330362|Why doesn't the Low Disk Space warning balloon show up as soon as I run low on disk space
+2012-07-18|10330882|Why don't per-item custom icons work when I open a Zip file or some other virtual folder?
+2012-07-19|10331400|Why do some font names begin with an at-sign?
+2012-07-20|10331787|The format of icon resources
+2012-07-23|10332378|What's the story behind the WM_SYNCPAINT message?
+2012-07-26|10333558|A brief and also incomplete history of Windows localization
+2012-07-30|10334554|Why don't any commands work after I run my batch file? I'm told that they are not recognized as an internal or external command, operable program, or batch file.
+2012-07-31|10334556|Reading the output of a command into a batch file variable
+2012-08-01|10334557|How do I find the most recently created file in a directory from a batch file?
+2012-08-02|10334559|Exiting a batch file without exiting the command shell -and- batch file subroutines
+2012-08-03|10334560|FORFILES, for your fancier batch file enumeration needs
+2012-08-03|10335845|Get your Contoso-branded merchandise while you can
+2012-08-07|10334562|Microspeak: planful
+2012-08-08|10334563|Of what possible legitimate use are functions like CreateRemoteThread, WriteProcessMemory, and VirtualProtectEx?
+2012-08-09|10334564|What is SysFader and why is it always crashing?
+2012-08-10|10334564|What is SysFader and why is it always crashing?
+2012-08-13|10334566|Why am I in the Quake credits?
+2012-08-17|10340743|What if my application is really two applications bundled into a single file, and I want them collected into two groups on the taskbar in Windows 7?
+2012-08-20|10341464|How do I customize how my application windows are grouped in the Taskbar?
+2012-08-22|10342149|The shifting sands of "Run as different user"
+2012-08-24|10342533|Wait, you never said that I had to initialize the object before I used it!
+2012-08-27|10343683|How does the taskbar decide whether to show Recent or Frequent documents on the jump list?
+2012-08-28|10343980|Command line tool to manage Windows 7 Libraries, with source code
+2012-08-30|10344405|Psychic debugging: Why Chinese characters don't work
+2012-09-07|10347136|The case of the asynchronous copy and delete
+2012-09-10|10347674|When you transfer control across stack frames, all the frames in between need to be in on the joke
+2012-09-11|10347998|Why can't I use Magnifier in Full Screen or Lens mode?
+2012-09-11|10347999|One for the "They have to say that because of me": Ground rules at the Point Defiance Zoo
+2012-09-17|10349955|How do you deal with an input stream that may or may not contain Unicode data?
+2012-09-21|10351756|In vollen Zügen genießen
+2012-09-24|10352495|A classification of faces with eyes open and closed in Dr. Seuss's ABC based on the nature of the character
+2012-09-25|10352843|Why can't I set "Size all columns to fit" as the default?
+2012-09-27|10353605|Why aren't environment variables being expanded in my RGS file?
+2012-09-27|10353606|The Ride to Rio: Bicycling from Los Angeles to Rio de Janeiro
+2012-10-01|10354594|What's the difference between F5 and F8 at the boot screen?
+2012-10-02|10354939|Microspeak: Granular
+2012-10-12|10358935|What happens if you forget to pass an OVERLAPPED structure on an asynchronous handle?
+2012-10-16|10359829|Irony patrol: Recycling bins
+2012-10-17|10360184|If there's a problem with a wiki, then you can fix it; that's why it's a wiki
+2012-10-18|10360604|Why does ShellExecute return SE_ERR_ACCESSDENIED for nearly everything?
+2012-10-19|10360980|Using WM_COPYDATA to marshal message parameters since the window manager otherwise doesn't know how
+2012-10-24|10362204|You can't use the WM_USER message in a dialog box
+2012-10-25|10362204|You can't use the WM_USER message in a dialog box
+2012-10-26|10362864|Whether the Unicode Bidi algorithm is intuitive depends on your definition of "intuitive"
+2012-10-30|10363822|Keyboard shortcut for resizing all columns in a listview control to fit
+2012-10-31|10364271|The TEMP directory is like a public hot tub whose water hasn't been changed in over a year
+2012-11-01|10364713|When you synthesize input with SendInput, you are also synthesizing the timestamp
+2012-11-02|10365035|How do I parse a string into a FILETIME?
+2012-11-13|10367904|Microsoft Money crashes during import of account transactions or when changing a payee of a downloaded transaction
+2012-11-20|10370008|Microspeak: touch base
+2012-11-22|10370767|The resource compiler will helpfully add window styles for you, but if you're building a dialog template yourself, you don't get that help
+2012-11-23|10371013|When studying performance, you need to watch out not only for performance degradation, but also unexpected performance improvement
+2012-11-23|10371014|The Hater's Guide to the Williams-Sonoma Catalog
+2012-11-26|10371440|How does the window manager decide where to place a newly-created window?
+2012-11-26|10371441|Puzzling triple rainbow clearly identifies location of pot of gold
+2012-11-27|10371823|Security vulnerability reports as a way to establish your l33t kr3|)z
+2012-11-28|10372436|Why are there both FIND and FINDSTR programs, with unrelated feature sets?
+2012-11-29|10372870|Various ways of performing an operation asynchronously after a delay
+2012-11-30|10373300|The debugger lied to you because the CPU was still juggling data in the air
+2012-12-07|10375415|It rather involved being on the other side of this airtight hatchway: Writing to the application directory
+2012-12-10|10375909|Why do some shortcuts not support editing the command line and other properties?
+2012-12-11|10376210|Microspeak: v-team
+2012-12-13|10377004|Why is it so hard to write a program that requires UI Access privilege?
+2012-12-17|10378525|Like the cake, WS_EX_TRANSPARENT is a lie, or at least not the entire truth
+2012-12-18|10378851|Why was Pinball removed from Windows Vista?
+2012-12-21|10379948|Why do BackupRead and BackupWrite require synchronous file handles?
+2012-12-24|10380437|What is the proper handling of WM_RENDERFORMAT and WM_RENDERALLFORMATS?
+2012-12-24|10380438|Miss Denmark, she is dressed as a mermaid because we couldn't secure the rights from LEGO
+2012-12-25|10380551|You too can use your psychic powers: Spaces in paths
+2012-12-26|10380665|A question about endian-ness turns out to be the wrong question
+2012-12-26|10380666|What celebration of Kwanzaa would be complete without Sandra Lee's infamous Kwanzaa cake?
+2012-12-27|10380848|What is so special about the instance handle 0x10000000?
+2012-12-31|10381472|Why can't you rename deleted items in the Recycle Bin?
+2012-12-31|10381473|2012 year-end link clearance
+2013-01-01|10381556|If NTFS is a robust journaling file system, why do you have to be careful when using it with a USB thumb drive?
+2013-01-02|10381672|A few stray notes on Windows patching and hot patching
+2013-01-03|10381959|Why does my program run really slow or even crash (or stop crashing, or crash differently) if running under a debugger?
+2013-01-04|10382242|What's the guidance on when to use rundll32? Easy: Don't use it
+2013-01-05|10381672|A few stray notes on Windows patching and hot patching
+2013-01-07|10382714|Understanding the classical model for linking, groundwork: The algorithm
+2013-01-08|10383017|Understanding the classical model for linking: Taking symbols along for the ride
+2013-01-17|10385718|A brief history of the GetEnvironmentStrings functions
+2013-01-18|10385718|A brief history of the GetEnvironmentStrings functions
+2013-01-18|10386079|What is this rogue version 1.0 of the HTML clipboard format?
+2013-01-21|10386694|The 2013/2014 Seattle Symphony subscription season at a glance
+2013-01-22|10387008|Microspeak: pivot
+2013-01-22|10387022|Heads-up: Phone scammers pretending to be JPMorgan Chase MasterCard security
+2013-01-23|10387366|Why was WHEEL_DELTA chosen to be 120 instead of a much more convenient value like 100 or even 10?
+2013-01-23|10387367|Eliot Chang's list of things Asians hate
+2013-01-24|10387757|STRICT_TYPED_ITEMIDS is the shell namespace version of the STRICT macro used by USER and GDI
+2013-01-25|10388147|When you have a SAFEARRAY, you need to know what it is a SAFEARRAY *of*
+2013-01-27|10388147|When you have a SAFEARRAY, you need to know what it is a SAFEARRAY *of*
+2013-01-29|10388983|Poisoning your own DNS for fun and profit
+2013-02-01|10390112|Psychic debugging: Why your IContextMenu::InvokeCommand doesn't get called even though you returned success from IContextMenu::QueryContextMenu
+2013-02-06|10391383|The curious pattern of pre-emptively rejecting the solution to your problem
+2013-02-07|10391708|Once you know something can be done, doing it is much easier
+2013-02-08|10392028|For the Nitpickers: Enhanced-mode Windows 3.0 didn't exactly run a copy of standard-mode Windows inside the virtual machine
+2013-02-11|10392502|Display an overlay on the taskbar button
+2013-02-12|10392805|What's the story of the onestop.mid file in the Media directory?
+2013-02-14|10393544|If you can't find the function, find the caller and see what the caller jumps to
+2013-02-18|10394684|Display control buttons on your taskbar preview window
+2013-02-19|10395022|Microspeak: bubble up
+2013-02-21|10395734|What does -1.#IND mean?: A survey of how the Visual C runtime library prints special floating point values
+2013-02-22|10396078|Isn't the CompletionKey parameter to CreateIoCompletionPort superfluous?
+2013-02-22|10396079|Now that version 4 of the .NET Framework supports in-process side-by-side runtimes, is it now okay to write shell extensions in managed code?
+2013-02-25|10396638|Display a custom thumbnail for your application (and while you're at it, a custom live preview)
+2013-02-26|10396960|This code would be a lot faster if it weren't for the synchronization
+2013-02-27|10397393|When the option becomes so second-nature you forget that it's an option
+2013-02-28|10397976|What does 1#J mean? A strange corner case of the printing of special values
+2013-03-01|10398358|The source of much confusion: "backed by the system paging file"
+2013-03-07|10399690|What are the conventions for managing standard handles?
+2013-03-09|10399692|Microsoft-internal Chuck Norris facts
+2013-03-11|10399694|How can I see what files and shares are being accessed remotely, and the general usage pattern for the NetXxx functions
+2013-03-18|10403054|Manipulating the positions of desktop icons
+2013-03-19|10403054|Manipulating the positions of desktop icons
+2013-03-19|10403330|Microspeak: Science project
+2013-03-21|10404021|Does this operation work when file system redirection is disabled? The default answer is NO
+2013-03-22|10404367|When will GetMessage return -1?
+2013-03-25|10404940|Using accessibility to monitor windows as they come and go
+2013-03-27|10405554|"Adjust visual effects for best performance" should really be called "Adjust visual effects for crappiest appearance"
+2013-03-28|10405554|"Adjust visual effects for best performance" should really be called "Adjust visual effects for crappiest appearance"
+2013-03-28|10405881|The C language specification describes an abstract computer, not a real one
+2013-04-02|10406812|Where did the research project RedShark get its name?
+2013-04-08|10409196|The managed way to retrieve text under the cursor (mouse pointer)
+2013-04-11|10410188|The importance of having a review panel of twelve-year-old boys, episode 2
+2013-04-12|10410454|Is it legal to have a cross-process parent/child or owner/owned window relationship?
+2013-04-15|10410965|Using opportunistic locks to get out of the way if somebody wants the file
+2013-04-16|10411267|Dangerous setting is dangerous: This is why you shouldn't turn off write cache buffer flushing
+2013-04-17|10411656|If you don't know what you're going to do with the answer to a question, then there's not much point in making others work hard to answer it
+2013-04-18|10412074|How can I figure out which user modified a file?
+2013-04-19|10412399|Why does CoCreateInstance work even though my thread never called CoInitialize? The curse of the implicit MTA
+2013-04-22|10412399|Why does CoCreateInstance work even though my thread never called CoInitialize? The curse of the implicit MTA
+2013-04-22|10412906|Getting the current selection from an Explorer window
+2013-04-23|10413176|Microspeak: Tenet
+2013-04-24|10413489|Dark corners of C/C++: The typedef keyword doesn't need to be the first word on the line
+2013-04-25|10413997|If you're going to use an interlocked operation to generate a unique value, you need to use it before it's gone
+2013-05-03|10415778|Creating a simple pidl: For the times you care enough to send the very fake
+2013-05-06|10416225|Reading mouse input from a console program, and programmatically turning off Quick Edit mode
+2013-05-08|10416823|Mathematical formulas are designed to be pretty, not to be suitable for computation
+2013-05-09|10417158|Why am I getting LNK2019 unresolved external for my inline function?
+2013-05-14|10418267|Microspeak: booked
+2013-05-16|10419105|Untangling the confusingly-named WM_UPDATEUISTATE and WM_CHANGEUISTATE messages
+2013-05-22|10420443|How do I get a window back on the screen when it moved far, far away? Windows 7 (and 8) edition
+2013-05-23|10420741|Even though mouse-move, paint, and timer messages are generated on demand, it's still possible for one to end up in your queue
+2013-05-24|10421022|What happens if I manually post an auto-generated message into my message queue?
+2013-05-28|10421616|Why don't hotkeys for items on my Start menu work when I am in a fullscreen application?
+2013-06-03|10422964|How do I make it more difficult for somebody to take a screenshot of my window?
+2013-06-04|10423296|Asynchronous input vs synchronous input, a quick introduction
+2013-06-07|10424279|Sharing an input queue takes what used to be asynchronous and makes it synchronous, like focus changes
+2013-06-10|10424662|A big little program: Monitoring Internet Explorer and Explorer windows, part 1: Enumeration
+2013-06-12|10425215|Dispatch interfaces as connection point interfaces
+2013-06-18|10426545|Microspeak: to family well
+2013-06-20|10427187|Solving the problem rather than answering the question: Why does somebody want to write an unkillable process?
+2013-06-24|10428001|Drawing content at a fixed screen position, regardless of window position
+2013-06-28|10429807|It's the address space, stupid
+2013-06-28|10429808|2013 mid-year link clearance
+2013-07-01|10430581|Building on our program that draws content at a fixed screen position regardless of window position
+2013-07-04|10431671|Why was the Windows source code trunk called the Blue Line?
+2013-07-05|10431881|It rather involved being on the other side of this airtight hatchway: Disabling Safe DLL searching
+2013-07-09|10432565|The credit card with a half-million-dollar credit limit
+2013-07-10|10432879|Why is the syntax for touching a file from the command prompt so strange?
+2013-07-11|10433225|Where is this CRC that is allegedly invalid on my hard drive?
+2013-07-12|10433554|If you want to track whether the current thread owns a critical section, you can use the critical section itself to protect it
+2013-07-16|10434390|Microspeak: Landing, especially the heated kind
+2013-07-26|10436961|From Microsoft's mail room to the board room
+2013-07-31|10438199|Why does Explorer sometimes show my server name in parentheses?
+2013-08-01|10438543|The case of the auto-hide taskbar
+2013-08-05|10439314|Why does BitConverter.LittleEndian return false on my x86 machine?
+2013-08-06|10439573|The mysterious ways of the params keyword in C#
+2013-08-07|10439573|The mysterious ways of the params keyword in C#
+2013-08-09|10440495|Why does the CLR report a NullReferenceException even if the referenced access is not exactly the null pointer?
+2013-08-11|10439573|The mysterious ways of the params keyword in C#
+2013-08-12|10440955|How do I convert a synchronous file handle into an asynchronous one?
+2013-08-13|10441219|Generally speaking, yanking the power plug unexpectedly should not be part of your business process
+2013-08-20|10442834|Microspeak: The train
+2013-08-21|10443133|Adding a confirmation dialog to every drag/drop operation does not solve the problem
+2013-08-22|10443133|Adding a confirmation dialog to every drag/drop operation does not solve the problem
+2013-08-23|10443702|If I attach a file to an existing completion port, do I have to close the completion port handle a second time?
+2013-08-26|10444137|Why doesn't the "Automatically move pointer to the default button in a dialog box" work for nonstandard dialog boxes, and how do I add it to my own nonstandard dialog boxes?
+2013-08-27|10444402|How can I find out which process and user is modifying a file?
+2013-09-04|10446135|How permanent is the "Remove from this list" action on the Start menu?
+2013-09-09|10447284|Programmatically editing the metadata of an audio file
+2013-09-13|10448736|How does InterlockedIncrement work internally?
+2013-09-15|10448736|How does InterlockedIncrement work internally?
+2013-09-23|10451185|Providing a custom autocomplete source for an edit control
+2013-09-24|10451467|Wait, so does moving a file recalculate inherited permissions or doesn't it?
+2013-10-08|10454920|I wrote FAT on an airplane, for heaven's sake
+2013-10-08|10454921|I wrote my thesis on an airplane, for heaven's sake
+2013-10-11|10455907|C++ corner case: You can implement pure virtual functions in the base class
+2013-10-14|10456387|The imaginary experience of dining at an underground restaurant
+2013-10-16|10456992|Why does my window get a WM_ACTIVATE message when it isn't active?
+2013-10-17|10457292|What is the inverse of AdjustWindowRect and AdjustWindowRectEx?
+2013-10-18|10457796|The case of the redirected standard handles that won't close even though the child process has exited (and a smidge of Microspeak: reduction)
+2013-10-21|10458558|Using a toy cash register as a keyboard doesn't add up
+2013-10-24|10458557|Opening and manipulating Internet Explorer windows programmatically
+2013-10-24|10459773|When should I use the FIND_FIRST_EX_LARGE_FETCH flag to FindFirstFileEx?
+2013-10-28|10460793|Using GetLogicalProcessorInformationEx to see the relationship between logical and physical processors
+2013-10-29|10461148|Help me optimize this code which enumerates all possible GUIDs
+2013-10-31|10461992|If there is no 16-bit emulation layer in 64-bit Windows, how come certain 16-bit installers are allowed to run?
+2013-11-01|10462403|On the various ways of getting the current time and date in Win32
+2013-11-04|10463035|Manipulating the zone identifier to specify where a file was download from
+2013-11-05|10463035|Manipulating the zone identifier to specify where a file was download from
+2013-11-05|10463645|What is the point of FreeLibraryAndExitThread?
+2013-11-12|10466467|Microspeak: Spinning up or kicking off a build
+2013-11-13|10467078|A possibly unbeatable record for the shortest amount of time between an email message and its resend
+2013-11-18|10468726|How can I launch an unelevated process from my elevated process and vice versa?
+2013-11-19|10469053|Why is the Program Files directory called Program Files instead of just Programs?
+2013-11-20|10469599|Why don't all of my documents show up when I arrange my Documents library by Name?
+2013-11-21|10469599|Why don't all of my documents show up when I arrange my Documents library by Name?
+2013-11-21|10470023|How do I get the path to the default user's profile?
+2013-11-29|10472512|Why can't I create my dialog with DialogBox, DialogBoxParam, CreateDialog, CreateDialogParam, or the indirect versions of same?
+2013-12-03|10473319|How do I configure the timeout used by UI0Detect (Interactive Services Detection service)?
+2013-12-05|10474010|What's up with the registry key HKEY_CLASSES_ROOT\CLSID\CLSID?
+2013-12-06|10474322|Is it wrong to call SHFileOperation from a service?
+2013-12-11|10481036|Some vice presidents forget that not everybody attends the same meetings that they do
+2013-12-16|10482308|Disabling the PrtSc key by blocking input
+2013-12-17|10482666|Tales from "The Box": A survey of crackpots in physics
+2013-12-24|10484402|Essays from the funniest man in Microsoft Research
+2013-12-26|10484683|Why is GetWindowLongPtr returning a garbage value on 64-bit Windows?
+2013-12-30|10485905|How can I get the list of programs the same way that Programs and Features gets it?
+2013-12-31|10486117|New Year's Eve is sometimes a stressful occasion
+2013-12-31|10486118|2013 year-end link clearance
+2014-01-03|10486694|What happened in real-mode Windows when somebody did a longjmp into a discardable segment?
+2014-01-04|10486694|What happened in real-mode Windows when somebody did a longjmp into a discardable segment?
+2014-01-06|10487120|Excuses college students use for missing assignments
+2014-01-13|10489153|Creating a listview with checkboxes on some items but not others
+2014-01-13|10489154|The Dead Grandmother/Exam Syndrome
+2014-01-14|10489465|How do I hit the Win+PrintScreen hotkey if my tablet doesn't have a PrtSc key?
+2014-01-16|10490109|The curse of the leading zero
+2014-01-17|10490417|Psychic debugging: Why messages aren't getting processed by your message pump
+2014-01-22|10491577|Commissioner Bud Selig was named the first recipient of the Commissioner Bud Selig Leadership Award
+2014-01-23|10491935|The Visual Effects dialog box just tells you what you want to hear
+2014-01-24|10492287|Non-psychic debugging: Looking for leaked objects by their vtable
+2014-01-24|10492288|Jan-Keno Janssen decides to rent a bicycle to get around Las Vegas; this is what happens
+2014-01-27|10492898|How can I make a callback function a member of my C++ class?
+2014-01-27|10492899|The 2014/2015 Seattle Symphony subscription season at a glance
+2014-01-28|10493174|Why does my setup program detect the operating system incorrectly the second time I run it?
+2014-01-29|10493174|Why does my setup program detect the operating system incorrectly the second time I run it?
+2014-01-29|10495149|One of my favorite error codes: Optional parameter missing
+2014-01-31|10495737|Non-psychic debugging: If somebody's complaining that a collection should be empty but isn't, you might want to see what's in there
+2014-02-03|10496248|How can I make a WNDPROC or DLGPROC a member of my C++ class?
+2014-02-03|10496249|The new research citation format, if students got to design it
+2014-02-04|10496518|Racing email against a snail
+2014-02-05|10496796|How do I prevent folders like My Pictures from being recreated?
+2014-02-06|10497285|The United States Team uniforms for the opening ceremony is rather hideous, and illegal, and a bit anachronistic
+2014-02-07|10497475|VirtualLock locks your memory into the working set, even if your threads are blocked
+2014-02-11|10497960|Execute a file as if it were a program, even though its extension is not EXE
+2014-02-11|10498299|Microspeak: Party, in various forms
+2014-02-12|10498659|What is this extra thread in my process?
+2014-02-12|10498660|The heavy metal umlaut encroaches into Seattle real estate
+2014-02-14|10500088|When someone proposes marriage, bear in mind that there is a question that needs to be answered
+2014-02-18|10500937|If you cancel an operation while it's in progress, then it's not surprising that it's only half-done
+2014-02-21|10501953|How can I make sure my program is launched only from my helper program and no other parent?
+2014-02-25|10502806|A simple email introduction: Fan mail
+2014-02-26|10503148|Why are leading digits converted to language-specific digit shapes, but not trailing digits, and how do I suppress the conversion entirely?
+2014-02-27|10503519|What does the SEE_MASK_UNICODE flag in ShellExecuteEx actually do?
+2014-02-28|10503865|How can I detect that my program was run from Task Scheduler, or my custom shortcut, or a service, or whatever
+2014-03-02|10503865|How can I detect that my program was run from Task Scheduler, or my custom shortcut, or a service, or whatever
+2014-03-03|10504441|Adventures in automation: Dismissing all message boxes from a particular application but only if they say that the operation succeeded
+2014-03-04|10504812|What order does the DIR command arrange files if no sort order is specified?
+2014-03-06|10505524|We're currently using FILE_FLAG_NO_BUFFERING and FILE_FLAG_WRITE_THROUGH, but we would like our WriteFile to go even faster
+2014-03-10|10506422|Programmatically uploading a file to an FTP site
+2014-03-10|10506423|Why Johnny can't read music
+2014-03-11|10506735|How do I disable zone markers for downloaded files, so that Explorer stops being a nag about running downloaded files and just trusts me to do the right thing?
+2014-03-11|10506736|On live performances of Star Trek
+2014-03-12|10507094|Operations jargon: Internet egress
+2014-03-13|10507457|Why does the Directory.GetFiles method sometimes ignore *.html files when I ask for *.htm?
+2014-03-17|10508309|How do I show the contents of a directory while respecting the user's preferences for hidden and super-hidden files as well as the user's language preferences?
+2014-03-18|10508596|Why do I have to hit an arrow key before a keyboard-initiated Move operation will follow the mouse?
+2014-03-19|10508596|Why do I have to hit an arrow key before a keyboard-initiated Move operation will follow the mouse?
+2014-03-19|10508932|I think this person's monitor is broken: It doesn't know how to render text in capital letters
+2014-03-20|10509270|Going for the facts: Who is displaying this message box?
+2014-03-20|10509271|When visitors to the United States underestimate the size of the country
+2014-03-21|10509670|Why can't I __declspec(dllexport) a function from a static library?
+2014-03-21|10509671|Different senses of scale create different travel expectations
+2014-03-25|10510594|Geeky t-shirt alert: Windows 7's so-called God Mode
+2014-03-26|10510935|Can CoCreateGuid ever return GUID_NULL?
+2014-03-31|10512218|A puzzle involving dynamic programming, or maybe it doesn't
+2014-04-02|10512890|It rather involved being on the other side of this airtight hatchway: Invalid parameters from one security level crashing code at the same security level (again)
+2014-04-04|10513890|It's bad enough for a guest to demolish the host's house; demolishing an unrelated person's house is taking it to a whole new level
+2014-04-07|10514610|Using WM_SETREDRAW to speed up adding a lot of elements to a control
+2014-04-08|10515006|Why is Rundll32 called Rundll32 and not just Rundll?
+2014-04-11|10516280|Windows is not a Microsoft Visual C/C++ Run-Time delivery channel
+2014-04-12|10516280|Windows is not a Microsoft Visual C/C++ Run-Time delivery channel
+2014-04-14|10516909|Enumerating subsets with binomial coefficients
+2014-04-15|10517290|Microspeak: bar check
+2014-04-16|10517656|There is no complete list of all notifications balloon tips in Windows
+2014-04-22|10519239|Le Chatelier's Principle in action: Administrative overrides
+2014-04-23|10519589|How do I programmatically create folders like My Pictures if they were manually deleted?
+2014-04-24|10519992|I thought you could use SWP_FRAMECHANGED to force a control to recalculate its properties after a change in styles
+2014-04-25|10520321|A discovered quirk is just few steps away from becoming a feature
+2014-04-28|10520786|Showing a balloon tip at a specific position, then removing it
+2014-04-29|10521064|Why does the common file save dialog create a temporary file and then delete it?
+2014-04-30|10521436|The StartRunNoHOMEPATH policy affects whether the user's HOME path is the current directory when you use Start.Run, but make sure you read that carefully
+2014-05-01|10521770|How do I extract an icon at a nonstandard size if IExtractIcon::Extract tells me to go jump in a lake?
+2014-05-02|10522232|If a lot of settings are ignored when set in a DLL, why bother even letting you set them on a DLL?
+2014-05-05|10522553|Getting the location of the Close button in the title bar
+2014-05-05|10522554|Warehouse holding 1000 cans of surströmming burns to the ground, insert punch line here
+2014-05-06|10522854|Letting the boss think your project is classier than it really is
+2014-05-07|10522854|Letting the boss think your project is classier than it really is
+2014-05-07|10523172|Why does saving a file in Notepad fire multiple FindFirstChangeNotification events?
+2014-05-08|10523522|How can you use both versions 5 and 6 of the common controls within the same module?
+2014-05-09|10523887|When was the WM_COPYDATA message introduced, and was it ported downlevel?
+2014-05-09|10523888|Even if you're the President, your mother still has the power to embarrass you
+2014-05-12|10524394|Enumerating bit sequences with isolated zero-bits via the Fibonacci recurrence
+2014-05-13|10524731|How do I change among the three levels of play in Space Cadet Pinball?
+2014-05-14|10525185|The mystery of the icon that never appears
+2014-05-15|10525620|Is WriteProcessMemory atomic?
+2014-05-16|10526016|An extensible interlocked arithmetic function (via lambdas)
+2014-05-19|10526584|Creating a simple shell item, just as fake as a simple pidl
+2014-05-20|10526823|The code names for various subprojects within Windows 95
+2014-05-21|10527168|Dialog boxes return focus to the control that had focus when you last switched away; how do I get in on that action for my own windows?
+2014-05-22|10527522|Why does my radio button group selection get reset each time my window regains activation?
+2014-05-22|10527523|Eventually, we may find out where notes eight through twelve came from
+2014-05-23|10527836|Why is the debugger telling me I crashed because my DLL was unloaded, when I see it loaded right here happily executing code?
+2014-05-26|10528351|Find the index of the smallest element in a JavaScript array
+2014-05-27|10528561|Only senior executives can send email to the All Employees distribution list, but mistakes still happen
+2014-05-28|10528561|Only senior executives can send email to the All Employees distribution list, but mistakes still happen
+2014-05-28|10528891|Cargo-cult registry settings and the people who swear by them
+2014-05-28|10528970|How to take down the entire Internet with this one weird trick, according to Crisis
+2014-05-29|10529251|It rather involved being on the other side of this airtight hatchway: Denial of service by high CPU usage
+2014-05-29|10529252|Get your hex wrench ready, because here comes the Ikea bicycle
+2014-05-30|10529629|Why does GetFileVersionInfo map the whole image into memory instead of just parsing out the pieces it needs?
+2014-06-02|10530131|Obtaining information about the user's wallpaper on multiple monitors
+2014-06-03|10530373|As long as your file names meet operating system requirements, you can use whatever you like; the rest is up to you
+2014-06-04|10530714|Why did it take so long for Windows to support a taskbar on more than one monitor?
+2014-06-05|10530373|As long as your file names meet operating system requirements, you can use whatever you like; the rest is up to you
+2014-06-05|10531181|Closing over the loop variable is just as harmful in JavaScript as it is in C#, and more cumbersome to fix
+2014-06-06|10531604|Link-time code generation invalidates a lot of classical assumptions about linking
+2014-06-09|10532207|Improving the performance of CF_HDROP by providing file attribute information
+2014-06-10|10532805|Microspeak: Brownbag
+2014-06-11|10533168|Why do network servers sometimes show up as a Recycle Bin Location?
+2014-06-12|10533529|Can we continue to call FindNextFile() with the same handle that returned an error last time?
+2014-06-13|10533875|Non-classical processor behavior: How doing something can be faster than not doing it
+2014-06-16|10534442|Enumerating bit strings with a specific number of bits set (binomial coefficients strike again)
+2014-06-17|10534800|Who would ever write a multi-threaded GUI program?
+2014-06-18|10535164|10 is the new 6
+2014-06-19|10535540|What happened to the Shut Down menu in classic Task Manager?
+2014-06-20|10535855|Once you go input-idle, your application is deemed ready to receive DDE messages
+2014-06-23|10536416|Adding a sound to the Alt+Tab window
+2014-06-24|10536679|Finding the "Run as administrator" command, a game of hide-and-seek
+2014-06-24|10536680|The social interactions in two preschool classes, in graphic form
+2014-06-25|10537055|Getting past the question to solving the problem, episode 2014.06.25
+2014-06-26|10537434|For Honor, For Excellence, For Pizza
+2014-06-27|10537746|Undefined behavior can result in time travel (among other things, but time travel is the funkiest)
+2014-06-30|10538242|Getting the location of the Close button in the title bar, from Windows 2000 or Windows XP
+2014-06-30|10538243|2014 mid-year link clearance
+2014-07-01|10538513|What is the default size of the Recycle Bin, and how can an administrator control the size of the Recycle Bin?
+2014-07-02|10538513|What is the default size of the Recycle Bin, and how can an administrator control the size of the Recycle Bin?
+2014-07-02|10538816|Redirecting the Favorites folder is technically legal, but you wouldn't like it
+2014-07-03|10539205|It rather involved being on the other side of this airtight hatchway: Surreptitious file access by administrator
+2014-07-04|10539582|Communication between moving vehicles during the narrow window of the late 1990s
+2014-07-07|10539941|Customing the standard color-picker dialog
+2014-07-08|10540214|How do I turn off email reminders for my Windows Live calendar, and disable the birthday calendar while I'm at it?
+2014-07-09|10540628|Why are only some of the Windows 7 system notification icons colorless?
+2014-07-14|10541999|Enumerating integer compositions (the return of the binomial coefficients)
+2014-07-15|10542285|Why does Outlook map Ctrl+F to Forward instead of Find, like all right-thinking programs?
+2014-07-16|10542685|How do I configure Windows Update programmatically?
+2014-07-17|10542285|Why does Outlook map Ctrl+F to Forward instead of Find, like all right-thinking programs?
+2014-07-17|10543082|What does it mean when GetQueuedCompletionStatus return ERROR_SEM_TIMEOUT?
+2014-07-18|10543324|The time one of my colleagues debugged a line-of-business application for a package delivery service
+2014-07-19|10543324|The time one of my colleagues debugged a line-of-business application for a package delivery service
+2014-07-21|10543803|How can I get the URL to the Web page the clipboard was copied from?
+2014-07-21|10543804|The alternate story of the time one of my colleagues debugged a line-of-business application for a package delivery service
+2014-07-22|10544113|Microspeak: Tell Mode / Ask Mode
+2014-07-23|10544433|When will GetSystemWindowsDirectory return something different from GetWindowsDirectory?
+2014-07-24|10544760|When I send a WM_GETFONT message to a window, why don't I get a font?
+2014-07-25|10545065|How do I obtain the computer manufacturer's name from C++?
+2014-07-28|10545491|Finding the shortest path to the ground while avoiding obstacles
+2014-07-29|10545697|Did the Windows 95 interface have a code name?
+2014-07-31|10546305|What is the strange garbage-looking string in the "command" value of a static verb?
+2014-08-01|10546597|Before claiming that a function doesn't work, you should check what you're passing to it and what it returns
+2014-08-04|10547079|Enumerating the ways of choosing teams in a group of players
+2014-08-05|10547361|Microspeak: 1 – 1 is not zero
+2014-08-06|10547758|Why does Explorer say "File too large" for my custom file system, when the problem has nothing to do with the file being too large (heck it's not even a file)
+2014-08-07|10548113|Since clean-up functions can't fail, you have to soldier on
+2014-08-07|10548114|The latest technologies in plaintext editing: NotepadConf
+2014-08-08|10548481|The case of the orphaned LpdrLoaderLock critical section
+2014-08-11|10548975|If you want to set a thread's apartment model via Thread.CurrentThread.ApartmentState, you need to act quickly
+2014-08-11|10548976|Revival of the Daleks: Act One, Scene One
+2014-08-12|10549258|Keep your eye on the code page: C# edition (warning about DllImport)
+2014-08-13|10549559|Keep your eye on the code page: C# edition (the mysterious third code page)
+2014-08-14|10549885|Customers not getting the widgets they paid for if they click too fast -or- In C#, the += operator is not merely not guaranteed to be atomic, it is guaranteed not to be atomic
+2014-08-15|10550205|The scope of the C# checked/unchecked keyword is static, not dynamic
+2014-08-18|10550638|Deleting elements from an JavaScript array and closing up the gaps
+2014-08-18|10550639|News flash: Big houses cost more to maintain
+2014-08-19|10551175|My friend and his buddy invented the online shopping cart back in 1994
+2014-08-20|10551502|If you're looking for the code that displays a particular dialog box, the most directly way to find it is to look for the dialog box
+2014-08-21|10551659|Some reasons not to do anything scary in your DllMain, part 3
+2014-08-22|10551964|Why does the OpenThread function behave differently when the target thread belongs to another process?
+2014-08-22|10551965|Dispelling the myths, rumors, and innuendo surrounding the QueryPerformanceCounter function
+2014-08-26|10552786|It's time we face reality, my friends: We're not rocket scientists
+2014-08-29|10553610|How can I detect that a user's SID has changed and recover their old data?
+2014-09-01|10554050|It's a trap! Employment documents that require you to violate company policy
+2014-09-02|10554253|Who wrote the text for the Ctrl+Alt+Del dialog in Windows 3.1?
+2014-09-03|10554551|Why does the timestamp of a file increase by up to 2 seconds when I copy it to a USB thumb drive?
+2014-09-04|10554551|Why does the timestamp of a file increase by up to 2 seconds when I copy it to a USB thumb drive?
+2014-09-05|10555220|You can use a file as a synchronization object, too
+2014-09-08|10555736|Piping to notepad
+2014-09-09|10556049|Steve Ballmer did not write the text for the blue screen of death
+2014-09-10|10556421|I wrote the original blue screen of death, sort of
+2014-09-11|10557052|The history of Win32 critical sections so far
+2014-09-11|10557053|A lie repeated often enough becomes the truth: The continuing saga of the Windows 3.1 blue screen of death (which, by the way, was never called that)
+2014-09-12|10557431|What did Windows 3.1 do when you hit Ctrl+Alt+Del?
+2014-09-16|10558167|Microspeak: spend
+2014-09-17|10558429|Poor man's comments: Inserting text that has no effect into a configuration file
+2014-09-17|10558430|The citizenship test is pass/fail; there's no blue ribbon for acing it
+2014-09-18|10558763|The stream pointer position in IDataObject::GetData and IDataObject::GetDataHere is significant
+2014-09-19|10559094|I marked my parameter as [optional], so why do I get an RPC error when I pass NULL?
+2014-09-22|10559519|Receiving a notification any time the selection changes in an Explorer window
+2014-09-23|10559783|The grand ambition of giving your project the code name Highlander
+2014-09-24|10560089|What is the story of the mysterious DS_RECURSE dialog style?
+2014-09-25|10560326|If a process crashes while holding a mutex, why is its ownership magically transferred to another process?
+2014-09-26|10560553|Marshaling won't get in your way if it isn't needed
+2014-09-29|10560956|Simulating media controller buttons like Play and Pause
+2014-09-30|10561239|Why does misdetected Unicode text tend to show up as Chinese characters?
+2014-10-01|10561544|You can name your car, and you can name your kernel objects, but there is a qualitative difference between the two
+2014-10-02|10561881|In the red corner, EXCEPTION_INT_DIVIDE_BY_ZERO and STATUS_INTEGER_DIVIDE_BY_ZERO; and in the blue corner, EXCEPTION_INT_OVERFLOW and STATUS_INTEGER_OVERFLOW
+2014-10-03|10562176|Why is 0x00400000 the default base address for an executable?
+2014-10-06|10562586|Enumerating cyclical decompositions with Stirling numbers
+2014-10-07|10562856|Microspeak: All-up
+2014-10-08|10563127|Standard handles are really meant for single-threaded programs
+2014-10-09|10563415|Why is there a 64KB no-man's land near the end of the user-mode address space?
+2014-10-10|10563736|Some parts of an interface can change but others can't
+2014-10-13|10564164|Enumerating notification icons via UI Automation
+2014-10-14|10564399|Is there a way to disable a specific balloon notification without disabling all of them?
+2014-10-15|10564700|The GetCurrentThread function is like a check payable to Bearer: What it means depends on who's holding it
+2014-10-16|10565024|If only DLLs can get DllMain notifications, how can an EXE receive a notification when a thread is created (for example)?
+2014-10-17|10565302|When are global objects constructed and destructed by Visual C++?
+2014-10-20|10565825|Scripting an Internet Explorer window
+2014-10-21|10566091|The great thing about regular expression languages is that there are so many to choose from!
+2014-10-22|10566383|How do I disable Windows 8 touch contact visualizations for my application?
+2014-10-23|10566700|How can I detect programmatically whether the /3GB switch is enabled?
+2014-10-24|10567004|Debugging a hang: Chasing the wait chain inside a process
+2014-10-27|10567004|Debugging a hang: Chasing the wait chain inside a process
+2014-10-27|10567487|Enumerating the ways of distributing n balls into k boxes
+2014-10-28|10567797|A question about preventing the system from going to the idle state turns out to be misguided
+2014-10-29|10568120|The contents of the Start page are not programmatically accessible
+2014-10-30|10568552|Why is the FAT driver called FASTFAT? Why would anybody ever write SLOWFAT?
+2014-10-31|10568872|The case of the file that won't copy because of an Invalid Handle error message
+2014-11-01|10568872|The case of the file that won't copy because of an Invalid Handle error message
+2014-11-03|10569271|Applying a filter to the contents of an Explorer Browser
+2014-11-04|10569528|Microspeak: Line of sight
+2014-11-05|10570028|Passing the incorrect object type for a handle, how bad is it?
+2014-11-06|10570273|Raymond, why did you stop studying Chinese? It has no grammar!
+2014-11-10|10570884|Kicking around a function that formats stuff
+2014-11-11|10571166|A little cheat in my Tiger Beat photo homage
+2014-11-12|10571439|How can I wait until all startup applications have finished launching?
+2014-11-13|10572050|When does GetTickCount consider the system to have started?
+2014-11-14|10572700|How to view the stack of a user-mode thread when its kernel stack has been paged out
+2014-11-17|10573408|How do I enumerate drives the same way that the NET USE command does?
+2014-11-18|10573704|File version information does not appear in the property sheet for some files
+2014-11-19|10574048|Distinguishing between normative and positive statements to help people answer your question
+2014-11-21|10574758|Is it wrong to call SHFileOperation from a service? Revised
+2014-11-24|10575362|The crazy world of stripping diacritics
+2014-11-25|10575717|What is the difference between Full Windows Touch Support and Limited Touch Support?
+2014-11-26|10576044|If 16-bit Windows had a single input queue, how did you debug applications on it?
+2014-11-27|10575717|What is the difference between Full Windows Touch Support and Limited Touch Support?
+2014-11-27|10576382|Some light reading on lock-free programming
+2014-11-28|10576639|A user's SID can change, so make sure to check the SID history
+2014-12-01|10576992|Counting array elements which are below a particular limit value using SSE
+2014-12-02|10577260|Microspeak: Redlines
+2014-12-03|10577531|What happens if I don't paint when I get a WM_PAINT message?
+2014-12-04|10577881|If my WM_TIMER handler takes longer than the timer period, will my queue fill up with WM_TIMER messages?
+2014-12-09|10579233|The psychology of confirmation, or something, I don't know what to call it
+2014-12-10|10579544|If you get a procedure address by ordinal, you had better be absolutely sure it's there, because the failure mode is usually indistinguishable from success
+2014-12-12|10580256|Detecting whether a SID is well-known SID
+2014-12-15|10580665|Notes on calculating constants in SSE registers
+2014-12-15|10580666|When corporate policies meet precision scientific equipment
+2014-12-16|10580924|If you set up roaming profiles, you are expected to set up each machine identically, for the most part
+2014-12-17|10581257|It rather involved being on the other side of this airtight hatchway: Account vulnerable to Active Directory administrator
+2014-12-17|10581258|It's not too late (okay maybe it's too late) to get this gift for the physicist who has everything
+2014-12-18|10581562|How can I query the location of the taskbar on secondary monitors?
+2014-12-19|10581757|How did protected-mode 16-bit Windows fix up jumps to functions that got discarded?
+2014-12-22|10582334|Setting, clearing, and testing a single bit in an SSE register
+2014-12-23|10582504|The Softsel Hot List for the week of December 22, 1986
+2014-12-24|10582825|How can I let my child use an app that I bought from the Windows Store?
+2014-12-25|10582900|My pants are fancy!
+2014-12-26|10583035|Debugging walkthrough: Access violation on nonsense instruction
+2014-12-30|10583474|How did that program manage to pin itself to my taskbar when I installed it?
+2014-12-31|10583616|Even the publishing department had its own Year 2000 preparedness plan
+2014-12-31|10583617|2014 year-end link clearance
+2015-01-01|10583784|Horrifically nasty gotcha: FindResource and FindResourceEx
+2015-01-02|10583862|How do you prevent the linker from discarding a function you want to make available for debugging?
+2015-01-05|10584165|More notes on calculating constants in SSE registers
+2015-01-06|10584381|No good deed goes unpunished: Marking a document as obsolete
+2015-01-07|10584656|Why is there a BSTR cache anyway?
+2015-01-08|10584929|What happens if I don't pass a pCreateExParams to CreateFile2?
+2015-01-09|10585226|Finding the leaked object reference by scanning memory: Example
+2015-01-12|10585652|Limiting the bottom byte of an XMM register and clearing the other bytes
+2015-01-13|10585881|Microspeak: landing (redux)
+2015-01-14|10586139|Where can I find the standard asynchronous stream?
+2015-01-15|10586436|Why does CreateFile take a long time on a volume handle?
+2015-01-16|10586692|Why does a single integer assignment statement consume all of my CPU?
+2015-01-19|10587242|Why does Outlook use a semicolon to separate multiple recipients by default?
+2015-01-20|10587242|Why does Outlook use a semicolon to separate multiple recipients by default?
+2015-01-20|10587375|Why does the copy dialog give me the incorrect total size of the files being copied?
+2015-01-21|10587660|Why does my synchronous overlapped ReadFile return FALSE when the end of the file is reached?
+2015-01-22|10587918|The wonderful world of shell bind context strings
+2015-01-23|10588226|Helper functions to make shell bind contexts slightly more manageable
+2015-01-26|10588645|Customizing item enumeration with IShellItem
+2015-01-27|10588869|Tip for trying to boost morale: Don't brag about your overseas trips
+2015-01-28|10589156|The compiler can make up its own calling conventions, within limits
+2015-01-29|10589474|Color-aware ClearType requires access to fixed background pixels, which is a problem if you don't know what the background pixels are, or if they aren't fixed
+2015-01-30|10589818|Creating a shared memory block that can grow in size
+2015-01-30|10589819|Got errands? Now is the time
+2015-02-02|10590344|Customizing item enumeration with IShellItem, the old-fashioned way
+2015-02-03|10590642|Another way to make sure nobody sends you feedback
+2015-02-04|10590925|If you wonder why a function can't be found, one thing to check is whether the function exists in the first place
+2015-02-05|10591215|The SuspendThread function suspends a thread, but it does so asynchronously
+2015-02-06|10591490|Use GFlags to catch the silent killer (silent but deadly)
+2015-02-09|10591931|Using thread pool cleanup groups to clean up many things at once
+2015-02-10|10592255|Staying cool is one of the skills of a corporate president
+2015-02-11|10592548|Why was the replacement installer for recognized 16-bit installers itself a 32-bit program instead of a 64-bit program?
+2015-02-12|10592892|Who is this rogue operative that filled my object with 0xDD, then sent me a message?
+2015-02-13|10593159|What is this inconsistent heap state that MSDN warns me about during DLL_PROCESS_DETACH?
+2015-02-16|10593625|Reading the word under the cursor via UI Automation
+2015-02-16|10593764|The 2015/2016 Seattle Symphony subscription season at a glance
+2015-02-17|10593874|Microspeak: Light up
+2015-02-18|10594136|When asking about the capacity of a program, you also need to consider what happens when you decide to stop using the program
+2015-02-19|10594406|What's the point of using a custom timer queue if there is a default one already?
+2015-02-20|10594680|Non-capturing C++ lambdas can be converted to a pointer to function, but what about the calling convention?
+2015-02-23|10595070|Further adventures in trying to guess what encoding a file is in
+2015-02-24|10595364|Nice job, you got an A minus from Bill
+2015-02-25|10595729|Why does the mouse cursor jump a few pixels if you click on the very bottom row of pixels on the taskbar?
+2015-02-26|10596013|RegNotifyChangeKeyValue sucks less
+2015-02-27|10596424|Solving the problem rather than answering the question: How can a non-administrator modify a registry key that requires administrator permission?
+2015-03-02|10596900|Connecting some blocks: Tell me more about the current image in my wallpaper slide show
+2015-03-03|10597153|Setting up a new computer often results in leftover slot covers, so what do you do with the slot covers?
+2015-03-04|10597470|Why are the dimensions of a maximized window larger than the monitor?
+2015-03-05|10597780|Modifying the CS_NOCLOSE style does affect all windows of the class, just not necessarily in an immediately noticeable way
+2015-03-06|10598131|A question about the FileTimeToLocalFileTime function turned out to be something else
+2015-03-09|10598602|How can I programmatically resize a listview column to fit its contents?
+2015-03-10|10598846|The more times you use the word "simply" in your instructions, the more I suspect you don't know what that word means
+2015-03-11|10599325|Dubious security vulnerability: Copying a program and running the copy
+2015-03-12|10599631|Under what conditions will the IUnknown::AddRef method return 0?
+2015-03-13|10599908|Debugging walkthrough: Access violation on nonsense instruction, episode 2
+2015-03-16|10600388|Does the CLR really call CoInitializeEx on the first call to unmanaged code, even if you don't deal with COM at all and are just calling native code via p/invoke?
+2015-03-17|10600625|Microspeak: Headcount, req, and related personnel terms
+2015-03-18|10600933|Travel tip: Don't forget your car on the ferry
+2015-03-19|10601208|Sure, we have RegisterWindowMessage and RegisterClipboardFormat, but where are DeregisterWindowMessage and DeregisterClipboardFormat?
+2015-03-20|10601520|Finding the constructor by scanning memory for the vtable
+2015-03-23|10601947|CancelIoEx can cancel I/O on console input, which is kind of nice
+2015-03-24|10602182|A Venn diagram demonstrating the dining options in one of the new cafeterias
+2015-03-25|10602581|What's the difference between PathIsSystemFolder and Protected Operating System Files?
+2015-03-26|10602905|Switching on a tuple: Sneaky trick
+2015-03-27|10603230|Flaw reported in Windows 95
+2015-03-30|10603677|How do I make a boldface item on a context menu?
+2015-03-30|10603678|I want you to chase your sisters until they throw up
+2015-03-31|10603954|What was the relationship between Outlook and Outlook Express?
+2015-04-01|10604324|Under what circumstances will a dialog box not use the caption specified in the resource file?
+2015-04-02|10604694|It appears that some programmers think that Windows already ships with that time machine the Research division is working on
+2015-04-03|10605029|Why is CreateToolhelp32Snapshot returning incorrect parent process IDs all of a sudden?
+2015-04-06|10605453|Opening the classic folder browser dialog with a specific folder preselected
+2015-04-07|10605693|The details of the major incident were not clearly articulated, but whatever it is, it's already over
+2015-04-08|10605971|Why is the System.DateCreated property off by a few seconds?
+2015-04-09|10606269|If more than one object causes a WaitForMultipleObjects to return, how do I find out about the other ones?
+2015-04-10|10606561|On the ways of creating a GUID that looks pretty
+2015-04-13|10607036|After I encrypt memory with CryptProtectMemory, can I move it around?
+2015-04-14|10607264|In the Seattle area, people treat you nicer once they learn your last name is Gates
+2015-04-15|10607534|When I set the "force X off" policy to Disabled, why doesn't it force X on?
+2015-04-16|10607806|Why did the original code for FIND.COM use lop as a label instead of loop?
+2015-04-17|10608077|Why are there both TMP and TEMP environment variables, and which one is right?
+2015-04-18|10608077|Why are there both TMP and TEMP environment variables, and which one is right?
+2015-04-20|10608488|How to find the IP address of a hacker, according to CSI: Cyber
+2015-04-21|10608779|What was the starting point for the Panther Win32 kernel?
+2015-04-22|10609035|It rather involved being on the other side of this airtight hatchway: Invalid parameters from one security level crashing code at the same security level (yet again)
+2015-04-23|10609329|How did the scopes for the CryptProtectMemory function end up in a strange order?
+2015-04-24|10609576|Why can't I have variadic COM methods?
+2015-04-27|10609955|How do I extract the path to Control Panel from this shortcut so I can launch it?
+2015-04-27|10609956|Wow, they really crammed a lot into those 410 transistors
+2015-04-28|10610247|Access to a file's attributes is controlled by two things
+2015-04-29|10610539|Is the atom returned by RegisterClass(Ex) a "real" atom?
+2015-04-30|10610849|How can I tell if a file is an image of some type?
+2015-05-01|10611358|That's not how you start a boat
+2015-05-04|10611928|Creating a window that can be resized in only one direction
+2015-05-05|10612220|What does it mean when the Advanced Security Settings dialog says that an ACE was inherited from "Parent Object" without naming the specific parent?
+2015-05-06|10612563|Why is there an invisible U+202A at the start of my file name?
+2015-05-07|10612860|Hidden message in a T-shirt, it's been done before
+2015-05-08|10613194|Documentation creates contract, which is why you need to be very careful what you document
+2015-05-11|10613742|Can I run a service executable from a network location?
+2015-05-12|10614015|How does Task Manager compute Up Time, and why doesn't it agree with GetTickCount?
+2015-05-13|10614335|Why don't you forward WM_GETMINMAXINFO and clamp the results?
+2015-05-14|10614647|Low-level hooks have thread affinity, so make sure you keep an eye on the thread
+2015-05-15|10614925|MapGenericMask is just a convenience function for converting generic access to specific access, according to the instructions you provide
+2015-05-18|10615339|Determining programmatically whether a file was built with LAA, ASLR, DEP, or OS-assisted /GS
+2015-05-19|10615609|It rather involved being on the other side of this airtight hatchway: Code injection via QueueUserAPC
+2015-05-20|10615877|When you inadvertently become a collector of something you really aren't all that into
+2015-05-21|10616148|If you can set enforcement for a rule, you can set up lack of enforcement
+2015-05-22|10616414|So you decided to call SHFileOperation from a service, at least remember to disable copy hooks
+2015-05-25|10616865|New C++ experimental feature: The tadpole operators
+2015-05-26|10617079|The tadpole operators explained
+2015-05-27|10617380|Dubious security vulnerability: Luring somebody into your lair
+2015-05-28|10617693|When designing your user interface, be mindful of the selection-readers
+2015-05-29|10617969|Under what conditions can SetFocus crash? Another debugging investigation
+2015-06-01|10618435|How can I make the touch keyboard appear automatically when focus enters an edit control in my program?
+2015-06-02|10618658|Why do events logged by the ReportEvent function show up in the wrong order in the Event Viewer?
+2015-06-03|10618985|Adding a little marker to your comments in Microsoft Word
+2015-06-04|10619379|What's the point of giving my unnamed object proper security attributes since unnamed objects aren't accessible outside the process anyway (or are they?)
+2015-06-05|10619746|There is no /8TB flag on 64-bit Windows
+2015-06-08|10620180|How can I reposition my controls so they aren't covered by the touch keyboard?
+2015-06-09|10620434|Bitter or acerbic? or does it make a difference?
+2015-06-10|10620654|Taking ownership of a file doesn't give you access, yet
+2015-06-11|10620936|Keep your eye on the code page: Is this string CP_ACP or UTF-8?
+2015-06-12|10621209|How can I force a CreateFile call to hang, in order to test something?
+2015-06-15|10621598|How can I reposition my window so it isn't covered by the touch keyboard?
+2015-06-16|10621828|One way to make sure nobody reports problems with your Web site
+2015-06-17|10622037|When you think you found a problem with a function, make sure you're actually calling the function
+2015-06-18|10622276|How come the technique for launching an unelevated process from an elevated process doesn't work?
+2015-06-19|10622575|Why does the class name for Explorer change depending on whether you open it with /e?
+2015-06-19|10622576|Random links on taking better pictures
+2015-06-22|10623021|Reinterpreting the bits of a 64-bit integer as if they were a double-precision floating point number (and vice versa)
+2015-06-23|10623247|Sorry for the interruption, but it doesn't happen often
+2015-06-24|10623515|A trick for finding the correct internal mailing list
+2015-06-25|10623757|Where is the full version of the music that plays when you start Windows 98 for the first time?
+2015-06-26|10624045|Windows 95 and Windows NT manage the TEB on x86 differently
+2015-06-29|10624284|Parsing a string as a 64-bit integer, somehow
+2015-06-30|10624285|Microspeak: Stretch goal
+2015-06-30|10624286|2015 mid-year link clearance
+2015-07-01|10624287|How secure are GUIDs? Can I use it to generate passwords?
+2015-07-02|10624288|Is a SID with zero subauthorities a valid SID? It depends whom you ask
+2015-07-03|10624289|Why does the BackupWrite function take a pointer to a modifiable buffer when it shouldn't be modifying the buffer?
+2015-07-06|10624290|Trying out all the different ways of recognizing different types of timestamps from quite a long way away
+2015-07-07|10624291|Intentionally making the suggestion look nothing like any scripting language, yet understandable enough to get the point across
+2015-07-08|10624292|What would be the point of creating a product that can't do its job?
+2015-07-09|10624293|Why is my x64 process getting heap address above 4GB on Windows 8?
+2015-07-10|10624294|On the various ways of creating large files in NTFS
+2015-07-13|10624295|Generating different types of timestamps from quite a long way away
+2015-07-14|10624296|Hazy memories of the Windows 95 ship party
+2015-07-15|10624297|Why doesn't the Print command appear when I select 20 files and right-click?
+2015-07-16|10624298|Why do I get ERROR_INVALID_HANDLE from GetModuleFileNameEx when I know the process handle is valid?
+2015-07-17|10624299|What did the Ignore button do in Windows 3.1 when an application encountered a general protection fault?
+2015-07-20|10628815|How can I detect whether a keyboard is attached to the computer?
+2015-07-21|10629164|Please enjoy the new eco-friendly printers, now arguably less eco-friendly
+2015-07-22|10629555|When you think you found a problem with a function, make sure you're actually calling the function, episode 2
+2015-07-23|10629946|Corrupted file causes application to crash; is that a security vulnerability?
+2015-07-24|10630327|The curse of the redefinition of the symbol HLOG
+2015-07-27|10630772|The Itanium processor, part 1: Warming up
+2015-07-28|10631038|The Itanium processor, part 2: Instruction encoding, templates, and stops
+2015-07-29|10631311|The Itanium processor, part 3: The Windows calling convention, how parameters are passed
+2015-07-30|10631649|The Itanium processor, part 4: The Windows calling convention, leaf functions
+2015-07-30|10631650|The Itanium processor, part 3b: How does spilling actually work?
+2015-07-31|10631975|The Itanium processor, part 5: The GP register, calling functions, and function pointers
+2015-08-03|10632545|The Itanium processor, part 6: Calculating conditionals
+2015-08-05|10633044|The Itanium processor, part 8: Advanced loads
+2015-08-06|10633287|The Itanium processor, part 9: Counted loops and loop pipelining
+2015-08-07|10633553|The Itanium processor, part 10: Register rotation
+2015-08-10|10634022|What if I have two programs that are logically a single application, and I want them to be treated as a single group on the taskbar?
+2015-08-11|10634260|The changing fortunes of being the last program on the Start menu
+2015-08-11|10634261|The ARM processor architecture: Somebody else's introduction
+2015-08-12|10634556|Why does the taskbar icon for grouped windows change to something weird?
+2015-08-13|10634840|Crashes in the I/O stack tend to occur in programs which do the most I/O
+2015-08-14|10635157|Windows started picking up the really big pieces of TerminateThread garbage on the sidewalk, but it's still garbage on the sidewalk
+2015-08-17|10635549|p/invoke gotcha: C++ bool is not Win32 BOOLEAN is not UnmanagedType.Bool
+2015-08-18|10635840|If you are going to call Marshal.GetLastWin32Error, the function whose error you're retrieving had better have SetLastError=true
+2015-08-19|10636096|If you are going to call Marshal.GetLastWin32Error, the function whose error you're retrieving had better be the one called most recently
+2015-08-20|10636350|I saw a pinvoke signature that passed a UInt64 instead of a FILETIME, what's up with that?
+2015-08-21|10636597|Handy delegate shortcut hides important details: The hidden delegate
+2015-08-24|10637017|Insightful graph: The ship date predictor
+2015-08-25|10637277|Microspeak: DRI, the designated response individual
+2015-08-26|10637513|Rules can exist not because there's a problem, but in order to prevent future problems
+2015-08-27|10637741|The Windows 95 I/O system assumed that if it wrote a byte, then it could read it back
+2015-08-28|10638035|Debugging walkthrough: Access violation on nonsense instruction, episode 3
+2015-08-31|10638485|How do I enumerate remembered connections that are not currently connected?
+2015-09-01|10638714|Microspeak: move the needle
+2015-09-02|10639007|I saved some files into the Program Files directory, and now they're gone!
+2015-09-03|10639281|When I change the icon in my shortcut, why doesn't it update on the screen?
+2015-09-04|10639576|Using an intermediate library to make the main library retargetable
+2015-09-07|10640031|I guess this explains why Warren Buffett hasn't retired
+2015-09-08|10640197|Cynical interpretations of various project milestones
+2015-09-09|10640429|Raymond's Windows Universal Samples API concordance
+2015-09-10|10640710|How do you get network connectivity from the worst PC in the world?
+2015-09-11|10640979|The C runtime library cannot be mixed and matched
+2015-09-14|10641381|How do I run a Web search in the user's default Web browser using their default search provider?
+2015-09-15|10641604|A process inherits its environment from its parent, and the consequences of this simple statement
+2015-09-16|10641837|Why doesn't GetAddrInfo work from behind a proxy?
+2015-09-17|10642076|How can I start my service as soon as possible, before any other service?
+2015-09-18|10642343|Why are there all these processes lingering near death, and what is keeping them alive?
+2015-09-21|10642727|How can I tell if Windows Update is waiting for the system to reboot?
+2015-09-22|10642965|Thanks for informing us that you know about the compatibility issue in your application, so we don't have to fix it
+2015-09-23|10643223|It rather involved being on the other side of this airtight hatchway: Elevation from Administrator to SYSTEM
+2015-09-24|10643494|How do I call SetTimer with a timer ID that is guaranteed not to conflict with any other timer ID?
+2015-09-25|10643767|Why doesn't my keyboard hook get called for keyboard messages I manually posted?
+2015-09-28|10644121|What happens to lost timer messages if I don't process them fast enough?
+2015-09-29|10644379|The trust relationship between this workstation and the primary domain failed, what does this mean?
+2015-09-30|10644697|Why can't I create a file equal to the available disk space?
+2015-10-01|10644965|If you can't remember the exact text of a dialog box (so you can search for it), you can ask the Internet
+2015-10-02|10645221|Calling ShutdownBlockReasonCreate from my service doesn't stop the user from shutting down
+2015-10-02|10645222|Hacking the law: On the role of the marriage officiant in the State of Washington
+2015-10-05|10645685|How do I obtain the comment for a share?
+2015-10-07|10646148|How do we change permissions on a share as fast as Explorer does it?
+2015-10-08|10646427|What happens if you call VirtualAlloc to MEM_COMMIT a page you never MEM_RESERVE?
+2015-10-09|10646703|How does a shell namespace extension provide icons for virtual items that track the standard icons set by the user's file associations?
+2015-10-09|10646704|Learning about farm animals from my niece
+2015-10-12|10647157|How do I get the user-customed name of My Computer or Recycle Bin?
+2015-10-13|10647354|Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?
+2015-10-15|10647906|What's the difference between UuidFromString, IIDFromString, CLSIDFromString, GUIDFromString...
+2015-10-16|10648184|I have the handle to a file; how can I get the file name from the debugger?
+2015-10-19|10648612|How do I get the user-customized name of a mapped network drive?
+2015-10-20|10648886|What is COM marshaling and how do I use it?
+2015-10-21|10649190|What are the rules for CoMarshalInterThreadInterfaceInStream and CoGetInterfaceAndReleaseStream?
+2015-10-22|10649480|What are the rules for CoMarshalInterface and CoUnmarshalInterface?
+2015-10-23|10649707|CoGetInterfaceAndReleaseStream does not mix with smart pointers
+2015-10-26|10650099|Are there any negative consequences to having a ton of files on the desktop?
+2015-10-27|10650331|The Redmond Reality Distortion Field: Analogies involving high-performance cars, usually Ferraris
+2015-10-28|10650650|How do I create a wizard that contains none of the things that makes a wizard a wizard?
+2015-10-29|10650925|When you open a securable object, make sure you pass the security mask you actually want (no more, no less)
+2015-10-30|10651175|Why does the timestamp of a file increase by up to 2 seconds when I put it in a ZIP archive, then extract it?
+2015-11-03|10651911|Microspeak: North star
+2015-11-04|10652235|Changing the conditions under which ReadFile produces fewer bytes than requested
+2015-11-05|10652516|Sometimes a function returns NULL because NULL really is the answer
+2015-11-06|10652824|Why does the access violation error message put the operation in quotation marks, redux
+2015-11-09|10653237|Some helper functions for interlocked pointer operations
+2015-11-10|10653443|I cloned a project, but the new project still groups with the old project on the taskbar
+2015-11-10|10653444|It's called "proofreading", give it a shot why don't you, episode 2
+2015-11-11|10653678|Oh, that's probably why I'm in the Quake credits
+2015-11-12|10653906|Why is January 1 being reported as the last week of the previous year?
+2015-11-13|10654127|Diagnosing high CPU by studying profiling results, example
+2015-11-13|10654128|Exploring the Supercute World of Hello Kitty
+2015-11-17|10654691|The ritual of choosing your next office
+2015-11-18|10654922|Why is the StartRunNOHOMEPATH policy so very specific about what it does?
+2015-11-18|10654923|If You Are The One: The crazy Chinese dating show
+2015-11-19|10655246|Stupid JavaScript debugging tricks: Abusing the conditional breakpoint
+2015-11-20|10655587|Investigating a problem constructing a security descriptor to deny thread-specific access rights to Everyone
+2015-11-23|10655992|Playing with synchroninzation barriers
+2015-11-24|10656215|We got around three
+2015-11-25|10656492|Clarifying the documentation on wildcards accepted by FindFirstFile/FindFirstFileEx
+2015-11-26|10656724|The increasing urgency of a request to fill out a survey
+2015-11-27|10656881|How can I append to a file and know where it got written, even if the file is being updated by multiple processes?
+2015-11-27|10656882|In order to serve you better: Charging your credit card in your home currency
+2015-11-30|10657168|Enumerating all the programs that can open a particular file extension
+2015-12-01|10657419|What does Ctrl+Enter mean? It depends on whom you ask
+2015-12-02|10657789|Hidden gotcha in the thread pool sample program on MSDN
+2015-12-03|10658069|A question about how to detect whether Windows Update needs the system to be restarted turns out to be the wrong question
+2015-12-04|10658369|Why did disabling interrupts cause Windows 95 to hang?
+2015-12-07|10658821|Enumerating all the programs that can launch a particular protocol
